@@ -11,7 +11,7 @@ from sklearn.cluster import KMeans
 from sklearn.preprocessing import Normalizer
 
 
-def pairwise_distance(binary_features, normalization):
+def pairwise_distance(binary_features, normalization, seed):
 
     # Load diseases dictionnary with symptoms and associated tfidf.
     with codecs.open(os.path.join("mesh", "data", "diseases-symptoms.json"), "r", encoding="utf-8") as fin:
@@ -48,7 +48,7 @@ def pairwise_distance(binary_features, normalization):
         features = Normalizer().fit_transform(features)
 
     # Kmeans on observation vectors.
-    kmeans = KMeans(n_clusters=24, random_state=0).fit(features)
+    kmeans = KMeans(n_clusters=24, random_state=seed).fit(features)
     clusters = {}
     for index, d_id in enumerate(diseases_id):
         clusters[d_id] = int(kmeans.labels_[index])
@@ -61,8 +61,10 @@ if __name__ == "__main__":
     parser = OptionParser()
     parser.add_option("-b", "--binary", action="store_true",
         default=False, help="use binary features")
+    parser.add_option("-s", "--seed",
+	    default="0", help="choise a seed to the kmeans")
     parser.add_option("-n", "--normalize", action="store_true",
 	    default=False, help="normalize distance matrix")
     (options, args) = parser.parse_args()
 
-    pairwise_distance(options.binary, options.normalize)
+    pairwise_distance(options.binary, options.normalize, int(options.seed))
