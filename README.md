@@ -40,6 +40,6 @@ L'expérimentation menée au sein de cette étude repose sur la comparaison des 
 
 `python3.6 clustering_kmeans.py`
 
-* Étape 5: Évaluer les clusters au travers des mesures: pureté, f1-mesure et rand index. Pour cela utiliser le script evaluation.py avec l'option -a pour calculer les différentes évaluations sur l'ensemble des fichiers au sein du dossier *./clusters*.
+* Étape 5: Évaluer les clusters au travers des mesures: pureté, f1-mesure et rand index. Pour cela utiliser le script evaluation.py avec l'option -a pour calculer les différentes évaluations sur l'ensemble des fichiers au sein du dossier *./clusters*. Vous devez unzip dans un premier temps l'archive *sml_results.zip*.
 
 `python3.6 evaluation.py -a`
