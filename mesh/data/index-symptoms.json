@@ -1,0 +1,671 @@
+{
+    "D019588": [
+        "Aging, Premature"
+    ],
+    "D007035": [
+        "Hypothermia"
+    ],
+    "D003490": [
+        "Cyanosis"
+    ],
+    "D009127": [
+        "Muscle Rigidity"
+    ],
+    "D018908": [
+        "Muscle Weakness"
+    ],
+    "D011782": [
+        "Quadriplegia"
+    ],
+    "D012021": [
+        "Reflex, Abnormal"
+    ],
+    "D012640": [
+        "Seizures"
+    ],
+    "D000855": [
+        "Anorexia"
+    ],
+    "D003968": [
+        "Diarrhea, Infantile"
+    ],
+    "D001049": [
+        "Apnea"
+    ],
+    "D003371": [
+        "Cough"
+    ],
+    "D006469": [
+        "Hemoptysis"
+    ],
+    "D006935": [
+        "Hypercapnia"
+    ],
+    "D006985": [
+        "Hyperventilation"
+    ],
+    "D053120": [
+        "Respiratory Aspiration"
+    ],
+    "D015430": [
+        "Weight Gain"
+    ],
+    "D002100": [
+        "Cachexia"
+    ],
+    "D006314": [
+        "Hearing Loss, Conductive"
+    ],
+    "D012892": [
+        "Sleep Deprivation"
+    ],
+    "D018496": [
+        "Hyperoxia"
+    ],
+    "D012912": [
+        "Sneezing"
+    ],
+    "D001247": [
+        "Asthenia"
+    ],
+    "D005335": [
+        "Fever of Unknown Origin"
+    ],
+    "D005320": [
+        "Fetal Macrosomia"
+    ],
+    "D009767": [
+        "Obesity, Morbid"
+    ],
+    "D013851": [
+        "Thinness"
+    ],
+    "D002303": [
+        "Cardiac Output, Low"
+    ],
+    "D015160": [
+        "Hydrops Fetalis"
+    ],
+    "D005130": [
+        "Eye Hemorrhage"
+    ],
+    "D005316": [
+        "Fetal Distress"
+    ],
+    "D019584": [
+        "Hot Flashes"
+    ],
+    "D006942": [
+        "Hypergammaglobulinemia"
+    ],
+    "D051346": [
+        "Mobility Limitation"
+    ],
+    "D002558": [
+        "Cerebrospinal Fluid Otorrhea"
+    ],
+    "D002524": [
+        "Cerebellar Ataxia"
+    ],
+    "D020234": [
+        "Gait Ataxia"
+    ],
+    "D001264": [
+        "Athetosis"
+    ],
+    "D002819": [
+        "Chorea"
+    ],
+    "D006948": [
+        "Hyperkinesis"
+    ],
+    "D018476": [
+        "Hypokinesia"
+    ],
+    "D009207": [
+        "Myoclonus"
+    ],
+    "D017109": [
+        "Akathisia, Drug-Induced"
+    ],
+    "D020323": [
+        "Tics"
+    ],
+    "D014202": [
+        "Tremor"
+    ],
+    "D008580": [
+        "Meningism"
+    ],
+    "D002389": [
+        "Catatonia"
+    ],
+    "D020237": [
+        "Alexia, Pure"
+    ],
+    "D007805": [
+        "Language Development Disorders"
+    ],
+    "D001039": [
+        "Aphasia, Broca"
+    ],
+    "D004401": [
+        "Dysarthria"
+    ],
+    "D003693": [
+        "Delirium"
+    ],
+    "D003128": [
+        "Coma"
+    ],
+    "D008607": [
+        "Mental Retardation"
+    ],
+    "D001308": [
+        "Auditory Perceptual Disorders"
+    ],
+    "D006212": [
+        "Hallucinations"
+    ],
+    "D009120": [
+        "Muscle Cramp"
+    ],
+    "D009128": [
+        "Muscle Spasticity"
+    ],
+    "D009123": [
+        "Muscle Hypotonia"
+    ],
+    "D009222": [
+        "Myotonia"
+    ],
+    "D013746": [
+        "Tetany"
+    ],
+    "D017116": [
+        "Low Back Pain"
+    ],
+    "D006261": [
+        "Headache"
+    ],
+    "D019547": [
+        "Neck Pain"
+    ],
+    "D051474": [
+        "Neuralgia, Postherpetic"
+    ],
+    "D012585": [
+        "Sciatica"
+    ],
+    "D010148": [
+        "Pain, Intractable"
+    ],
+    "D005158": [
+        "Facial Paralysis"
+    ],
+    "D018589": [
+        "Gastroparesis"
+    ],
+    "D006429": [
+        "Hemiplegia"
+    ],
+    "D017246": [
+        "Ophthalmoplegia, Chronic Progressive External"
+    ],
+    "D020828": [
+        "Pseudobulbar Palsy"
+    ],
+    "D012133": [
+        "Respiratory Paralysis"
+    ],
+    "D014826": [
+        "Vocal Cord Paralysis"
+    ],
+    "D020336": [
+        "Paraparesis, Spastic"
+    ],
+    "D011602": [
+        "Psychophysiologic Disorders"
+    ],
+    "D004244": [
+        "Dizziness"
+    ],
+    "D006312": [
+        "Hearing Loss, Bilateral"
+    ],
+    "D006317": [
+        "Hearing Loss, Noise-Induced"
+    ],
+    "D014012": [
+        "Tinnitus"
+    ],
+    "D000857": [
+        "Olfaction Disorders"
+    ],
+    "D006930": [
+        "Hyperalgesia"
+    ],
+    "D006941": [
+        "Hyperesthesia"
+    ],
+    "D006987": [
+        "Hypesthesia"
+    ],
+    "D010292": [
+        "Paresthesia"
+    ],
+    "D004408": [
+        "Dysgeusia"
+    ],
+    "D019575": [
+        "Blindness, Cortical"
+    ],
+    "D003117": [
+        "Color Vision Defects"
+    ],
+    "D004172": [
+        "Diplopia"
+    ],
+    "D006423": [
+        "Hemianopsia"
+    ],
+    "D015354": [
+        "Vision, Low"
+    ],
+    "D001750": [
+        "Urinary Bladder, Neurogenic"
+    ],
+    "D014717": [
+        "Vertigo"
+    ],
+    "D006685": [
+        "Hoarseness"
+    ],
+    "D006472": [
+        "Oral Hemorrhage"
+    ],
+    "D000006": [
+        "Abdomen, Acute"
+    ],
+    "D003085": [
+        "Colic"
+    ],
+    "D054058": [
+        "Acute Coronary Syndrome"
+    ],
+    "D004433": [
+        "Earache"
+    ],
+    "D014098": [
+        "Toothache"
+    ],
+    "D003248": [
+        "Constipation"
+    ],
+    "D004415": [
+        "Dyspepsia"
+    ],
+    "D005414": [
+        "Flatulence"
+    ],
+    "D006356": [
+        "Heartburn"
+    ],
+    "D006606": [
+        "Hiccup"
+    ],
+    "D002032": [
+        "Bulimia"
+    ],
+    "D006396": [
+        "Hematemesis"
+    ],
+    "D009058": [
+        "Mouth Breathing"
+    ],
+    "D012913": [
+        "Snoring"
+    ],
+    "D004438": [
+        "Ecchymosis"
+    ],
+    "D041781": [
+        "Jaundice, Obstructive"
+    ],
+    "D014008": [
+        "Tinea Pedis"
+    ],
+    "D011695": [
+        "Purpura, Schoenlein-Henoch"
+    ],
+    "D016553": [
+        "Purpura, Thrombocytopenic, Idiopathic"
+    ],
+    "D011697": [
+        "Purpura, Thrombotic Thrombocytopenic"
+    ],
+    "D053565": [
+        "Hypercalciuria"
+    ],
+    "D011141": [
+        "Polyuria"
+    ],
+    "D000419": [
+        "Albuminuria"
+    ],
+    "D006456": [
+        "Hemoglobinuria"
+    ],
+    "D014103": [
+        "Torticollis"
+    ],
+    "D001041": [
+        "Aphasia, Wernicke"
+    ],
+    "D013342": [
+        "Stuttering"
+    ],
+    "D005862": [
+        "Gerstmann Syndrome"
+    ],
+    "D007088": [
+        "Illusions"
+    ],
+    "D010591": [
+        "Phantom Limb"
+    ],
+    "D001405": [
+        "Reflex, Babinski"
+    ],
+    "D006313": [
+        "Hearing Loss, Central"
+    ],
+    "D003639": [
+        "Hearing Loss, Sudden"
+    ],
+    "D012001": [
+        "Hyperacusis"
+    ],
+    "D020069": [
+        "Shoulder Pain"
+    ],
+    "D005311": [
+        "Fetal Hypoxia"
+    ],
+    "D014550": [
+        "Urinary Incontinence, Stress"
+    ],
+    "D023341": [
+        "Chills"
+    ],
+    "D004489": [
+        "Edema, Cardiac"
+    ],
+    "D005222": [
+        "Mental Fatigue"
+    ],
+    "D005262": [
+        "Feminization"
+    ],
+    "D005483": [
+        "Flushing"
+    ],
+    "D007383": [
+        "Intermittent Claudication"
+    ],
+    "D009041": [
+        "Motion Sickness"
+    ],
+    "D002559": [
+        "Cerebrospinal Fluid Rhinorrhea"
+    ],
+    "D019462": [
+        "Syncope, Vasovagal"
+    ],
+    "D053609": [
+        "Lethargy"
+    ],
+    "D014313": [
+        "Trismus"
+    ],
+    "D006732": [
+        "Horner Syndrome"
+    ],
+    "D012607": [
+        "Scotoma"
+    ],
+    "D000788": [
+        "Angina Pectoris, Variant"
+    ],
+    "D045262": [
+        "Reticulocytosis"
+    ],
+    "D020250": [
+        "Postoperative Nausea and Vomiting"
+    ],
+    "D006939": [
+        "Hyperemesis Gravidarum"
+    ],
+    "D014840": [
+        "Vomiting, Anticipatory"
+    ],
+    "D004418": [
+        "Dyspnea, Paroxysmal"
+    ],
+    "D007040": [
+        "Hypoventilation"
+    ],
+    "D054068": [
+        "Livedo Reticularis"
+    ],
+    "D053159": [
+        "Dysuria"
+    ],
+    "D006628": [
+        "Hirsutism"
+    ],
+    "D006316": [
+        "Hearing Loss, High-Frequency"
+    ],
+    "D055154": [
+        "Dysphonia"
+    ],
+    "D005926": [
+        "Glossalgia"
+    ],
+    "D006209": [
+        "Halitosis"
+    ],
+    "D019080": [
+        "Cafe-au-Lait Spots"
+    ],
+    "D016534": [
+        "Cardiac Output, High"
+    ],
+    "D046088": [
+        "Hearing Loss, Unilateral"
+    ],
+    "D000550": [
+        "Amblyopia"
+    ],
+    "D020795": [
+        "Photophobia"
+    ],
+    "D019591": [
+        "Pseudophakia"
+    ],
+    "D010167": [
+        "Pallor"
+    ],
+    "D014884": [
+        "Waterhouse-Friderichsen Syndrome"
+    ],
+    "D009846": [
+        "Oliguria"
+    ],
+    "D021501": [
+        "Flank Pain"
+    ],
+    "D020567": [
+        "Fetal Weight"
+    ],
+    "D009155": [
+        "Mutism"
+    ],
+    "D046089": [
+        "Hearing Loss, Mixed Conductive-Sensorineural"
+    ],
+    "D020757": [
+        "Amaurosis Fugax"
+    ],
+    "D011694": [
+        "Purpura, Hyperglobulinemic"
+    ],
+    "D018458": [
+        "Persistent Vegetative State"
+    ],
+    "D055948": [
+        "Sarcopenia"
+    ],
+    "D011304": [
+        "Presbycusis"
+    ],
+    "D053448": [
+        "Prostatism"
+    ],
+    "D053591": [
+        "Pain, Referred"
+    ],
+    "D018437": [
+        "Brown-Sequard Syndrome"
+    ],
+    "D004412": [
+        "Dysmenorrhea"
+    ],
+    "D002639": [
+        "Cheyne-Stokes Respiration"
+    ],
+    "D048949": [
+        "Labor Pain"
+    ],
+    "D005683": [
+        "Gagging"
+    ],
+    "D013494": [
+        "Supranuclear Palsy, Progressive"
+    ],
+    "D005207": [
+        "Fasciculation"
+    ],
+    "D037061": [
+        "Metatarsalgia"
+    ],
+    "D000370": [
+        "Ageusia"
+    ],
+    "D001044": [
+        "Aphonia"
+    ],
+    "D055665": [
+        "Purpura Fulminans"
+    ],
+    "D020235": [
+        "Gait Apraxia"
+    ],
+    "D016857": [
+        "Hypocapnia"
+    ],
+    "D020238": [
+        "Prosopagnosia"
+    ],
+    "D015875": [
+        "Anisocoria"
+    ],
+    "D053201": [
+        "Urinary Bladder, Overactive"
+    ],
+    "D020915": [
+        "Korsakoff Syndrome"
+    ],
+    "D003655": [
+        "Decerebrate State"
+    ],
+    "D046608": [
+        "Synkinesis"
+    ],
+    "D019569": [
+        "Hemifacial Spasm"
+    ],
+    "D006315": [
+        "Hearing Loss, Functional"
+    ],
+    "D000381": [
+        "Agraphia"
+    ],
+    "D052245": [
+        "Usher Syndromes"
+    ],
+    "D002375": [
+        "Catalepsy"
+    ],
+    "D000849": [
+        "Anomia"
+    ],
+    "D018888": [
+        "Aphasia, Primary Progressive"
+    ],
+    "D020324": [
+        "Amnesia, Anterograde"
+    ],
+    "D000648": [
+        "Amnesia, Retrograde"
+    ],
+    "D020240": [
+        "Apraxia, Ideomotor"
+    ],
+    "D015845": [
+        "Tonic Pupil"
+    ],
+    "D004688": [
+        "Encopresis"
+    ],
+    "D004454": [
+        "Echolalia"
+    ],
+    "D000334": [
+        "Aerophagy"
+    ],
+    "D004884": [
+        "Eructation"
+    ],
+    "D053202": [
+        "Urinary Incontinence, Urge"
+    ],
+    "D020236": [
+        "Amnesia, Transient Global"
+    ],
+    "D020385": [
+        "Myokymia"
+    ],
+    "D003303": [
+        "Coprophagia"
+    ],
+    "D053158": [
+        "Nocturia"
+    ],
+    "D056844": [
+        "Renal Colic"
+    ],
+    "D053584": [
+        "Urinoma"
+    ],
+    "D054160": [
+        "Systolic Murmurs"
+    ],
+    "D058447": [
+        "Eye Pain"
+    ],
+    "D055955": [
+        "Susac Syndrome"
+    ]
+}

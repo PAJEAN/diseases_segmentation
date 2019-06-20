@@ -1,0 +1,4553 @@
+{
+    "D001848": [
+        "Bone Diseases, Developmental"
+    ],
+    "D005234": [
+        "Fatty Liver"
+    ],
+    "D003704": [
+        "Dementia"
+    ],
+    "D000544": [
+        "Alzheimer Disease"
+    ],
+    "D019636": [
+        "Neurodegenerative Diseases"
+    ],
+    "D009468": [
+        "Neuromuscular Diseases"
+    ],
+    "D007319": [
+        "Sleep Initiation and Maintenance Disorders"
+    ],
+    "D002386": [
+        "Cataract"
+    ],
+    "D050197": [
+        "Atherosclerosis"
+    ],
+    "D000015": [
+        "Abnormalities, Multiple"
+    ],
+    "D003240": [
+        "Connective Tissue Diseases"
+    ],
+    "D012871": [
+        "Skin Diseases"
+    ],
+    "D006201": [
+        "Hair Diseases"
+    ],
+    "D007333": [
+        "Insulin Resistance"
+    ],
+    "D006949": [
+        "Hyperlipidemias"
+    ],
+    "D001327": [
+        "Autoimmune Diseases"
+    ],
+    "D020022": [
+        "Genetic Predisposition to Disease"
+    ],
+    "D042822": [
+        "Genomic Instability"
+    ],
+    "D006130": [
+        "Growth Disorders"
+    ],
+    "D009410": [
+        "Nerve Degeneration"
+    ],
+    "D000437": [
+        "Alcoholism"
+    ],
+    "D011832": [
+        "Radiation Injuries"
+    ],
+    "D011833": [
+        "Radiation Injuries, Experimental"
+    ],
+    "D009374": [
+        "Neoplasms, Experimental"
+    ],
+    "D003092": [
+        "Colitis"
+    ],
+    "D008103": [
+        "Liver Cirrhosis"
+    ],
+    "D008171": [
+        "Lung Diseases"
+    ],
+    "D001927": [
+        "Brain Diseases"
+    ],
+    "D002547": [
+        "Cerebral Palsy"
+    ],
+    "D006323": [
+        "Heart Arrest"
+    ],
+    "D017202": [
+        "Myocardial Ischemia"
+    ],
+    "D003324": [
+        "Coronary Artery Disease"
+    ],
+    "D014652": [
+        "Vascular Diseases"
+    ],
+    "D006973": [
+        "Hypertension"
+    ],
+    "D006943": [
+        "Hyperglycemia"
+    ],
+    "D003645": [
+        "Death, Sudden"
+    ],
+    "D005911": [
+        "Gliosis"
+    ],
+    "D007249": [
+        "Inflammation"
+    ],
+    "D007511": [
+        "Ischemia"
+    ],
+    "D001265": [
+        "Athletic Injuries"
+    ],
+    "D013742": [
+        "Tetanus"
+    ],
+    "D007239": [
+        "Infection"
+    ],
+    "D004660": [
+        "Encephalitis"
+    ],
+    "D008288": [
+        "Malaria"
+    ],
+    "D008067": [
+        "Lipoma"
+    ],
+    "D000230": [
+        "Adenocarcinoma"
+    ],
+    "D007410": [
+        "Intestinal Diseases"
+    ],
+    "D008107": [
+        "Liver Diseases"
+    ],
+    "D011014": [
+        "Pneumonia"
+    ],
+    "D012131": [
+        "Respiratory Insufficiency"
+    ],
+    "D001342": [
+        "Autonomic Nervous System Diseases"
+    ],
+    "D002493": [
+        "Central Nervous System Diseases"
+    ],
+    "D010300": [
+        "Parkinson Disease"
+    ],
+    "D001925": [
+        "Brain Damage, Chronic"
+    ],
+    "D004827": [
+        "Epilepsy"
+    ],
+    "D008881": [
+        "Migraine Disorders"
+    ],
+    "D006849": [
+        "Hydrocephalus"
+    ],
+    "D003711": [
+        "Demyelinating Diseases"
+    ],
+    "D010523": [
+        "Peripheral Nervous System Diseases"
+    ],
+    "D011115": [
+        "Polyneuropathies"
+    ],
+    "D011248": [
+        "Pregnancy Complications"
+    ],
+    "D006331": [
+        "Heart Diseases"
+    ],
+    "D006333": [
+        "Heart Failure"
+    ],
+    "D003327": [
+        "Coronary Disease"
+    ],
+    "D009203": [
+        "Myocardial Infarction"
+    ],
+    "D007022": [
+        "Hypotension"
+    ],
+    "D000740": [
+        "Anemia"
+    ],
+    "D012507": [
+        "Sarcoidosis"
+    ],
+    "D011565": [
+        "Psoriasis"
+    ],
+    "D000471": [
+        "Alkalosis"
+    ],
+    "D006946": [
+        "Hyperinsulinism"
+    ],
+    "D007003": [
+        "Hypoglycemia"
+    ],
+    "D006955": [
+        "Hypernatremia"
+    ],
+    "D007008": [
+        "Hypokalemia"
+    ],
+    "D007010": [
+        "Hyponatremia"
+    ],
+    "D009748": [
+        "Nutrition Disorders"
+    ],
+    "D011488": [
+        "Protein Deficiency"
+    ],
+    "D003926": [
+        "Diabetic Coma"
+    ],
+    "D006980": [
+        "Hyperthyroidism"
+    ],
+    "D007037": [
+        "Hypothyroidism"
+    ],
+    "D005512": [
+        "Food Hypersensitivity"
+    ],
+    "D019966": [
+        "Substance-Related Disorders"
+    ],
+    "D022124": [
+        "Hyperammonemia"
+    ],
+    "D011183": [
+        "Postoperative Complications"
+    ],
+    "D008305": [
+        "Malignant Hyperthermia"
+    ],
+    "D002249": [
+        "Carbon Monoxide Poisoning"
+    ],
+    "D013375": [
+        "Substance Withdrawal Syndrome"
+    ],
+    "D002056": [
+        "Burns"
+    ],
+    "D001424": [
+        "Bacterial Infections"
+    ],
+    "D004927": [
+        "Escherichia coli Infections"
+    ],
+    "D013290": [
+        "Streptococcal Infections"
+    ],
+    "D011008": [
+        "Pneumococcal Infections"
+    ],
+    "D014115": [
+        "Toxemia"
+    ],
+    "D002177": [
+        "Candidiasis"
+    ],
+    "D014235": [
+        "Trichinellosis"
+    ],
+    "D012206": [
+        "Rhabdomyolysis"
+    ],
+    "D013276": [
+        "Stomach Ulcer"
+    ],
+    "D017219": [
+        "Gastric Outlet Obstruction"
+    ],
+    "D017093": [
+        "Liver Failure"
+    ],
+    "D017114": [
+        "Liver Failure, Acute"
+    ],
+    "D010195": [
+        "Pancreatitis"
+    ],
+    "D055371": [
+        "Acute Lung Injury"
+    ],
+    "D011654": [
+        "Pulmonary Edema"
+    ],
+    "D012128": [
+        "Respiratory Distress Syndrome, Adult"
+    ],
+    "D000532": [
+        "Altitude Sickness"
+    ],
+    "D001929": [
+        "Brain Edema"
+    ],
+    "D004830": [
+        "Epilepsy, Tonic-Clonic"
+    ],
+    "D007027": [
+        "Hypothalamic Diseases"
+    ],
+    "D002534": [
+        "Hypoxia, Brain"
+    ],
+    "D019586": [
+        "Intracranial Hypertension"
+    ],
+    "D004461": [
+        "Eclampsia"
+    ],
+    "D011225": [
+        "Pre-Eclampsia"
+    ],
+    "D008946": [
+        "Mitral Valve Stenosis"
+    ],
+    "D013927": [
+        "Thrombosis"
+    ],
+    "D004916": [
+        "Erythromelalgia"
+    ],
+    "D001778": [
+        "Blood Coagulation Disorders"
+    ],
+    "D004211": [
+        "Disseminated Intravascular Coagulation"
+    ],
+    "D013921": [
+        "Thrombocytopenia"
+    ],
+    "D007970": [
+        "Leukopenia"
+    ],
+    "D010198": [
+        "Pancytopenia"
+    ],
+    "D000013": [
+        "Congenital Abnormalities"
+    ],
+    "D007232": [
+        "Infant, Newborn, Diseases"
+    ],
+    "D001238": [
+        "Asphyxia Neonatorum"
+    ],
+    "D007235": [
+        "Infant, Premature, Diseases"
+    ],
+    "D003873": [
+        "Dermatitis, Exfoliative"
+    ],
+    "D003668": [
+        "Pressure Ulcer"
+    ],
+    "D006945": [
+        "Hyperhidrosis"
+    ],
+    "D000137": [
+        "Acid-Base Imbalance"
+    ],
+    "D000138": [
+        "Acidosis"
+    ],
+    "D007662": [
+        "Ketosis"
+    ],
+    "D002114": [
+        "Calcinosis"
+    ],
+    "D014883": [
+        "Water-Electrolyte Imbalance"
+    ],
+    "D006947": [
+        "Hyperkalemia"
+    ],
+    "D015362": [
+        "Child Nutrition Disorders"
+    ],
+    "D007228": [
+        "Infant Nutrition Disorders"
+    ],
+    "D044342": [
+        "Malnutrition"
+    ],
+    "D013832": [
+        "Thiamine Deficiency"
+    ],
+    "D011502": [
+        "Protein-Energy Malnutrition"
+    ],
+    "D013217": [
+        "Starvation"
+    ],
+    "D000707": [
+        "Anaphylaxis"
+    ],
+    "D048629": [
+        "Micronuclei, Chromosome-Defective"
+    ],
+    "D013398": [
+        "Sudden Infant Death"
+    ],
+    "D016638": [
+        "Critical Illness"
+    ],
+    "D006470": [
+        "Hemorrhage"
+    ],
+    "D012771": [
+        "Shock, Hemorrhagic"
+    ],
+    "D020896": [
+        "Hypovolemia"
+    ],
+    "D018746": [
+        "Systemic Inflammatory Response Syndrome"
+    ],
+    "D007431": [
+        "Intraoperative Complications"
+    ],
+    "D012769": [
+        "Shock"
+    ],
+    "D009102": [
+        "Multiple Organ Failure"
+    ],
+    "D000435": [
+        "Alcoholic Intoxication"
+    ],
+    "D019970": [
+        "Cocaine-Related Disorders"
+    ],
+    "D009021": [
+        "Morphine Dependence"
+    ],
+    "D010939": [
+        "Plant Poisoning"
+    ],
+    "D000007": [
+        "Abdominal Injuries"
+    ],
+    "D015168": [
+        "Lightning Injuries"
+    ],
+    "D050723": [
+        "Fractures, Bone"
+    ],
+    "D018882": [
+        "Heat Stress Disorders"
+    ],
+    "D006359": [
+        "Heat Exhaustion"
+    ],
+    "D018883": [
+        "Heat Stroke"
+    ],
+    "D007869": [
+        "Leg Injuries"
+    ],
+    "D018409": [
+        "Foot Injuries"
+    ],
+    "D009104": [
+        "Multiple Trauma"
+    ],
+    "D014949": [
+        "Wounds, Nonpenetrating"
+    ],
+    "D006230": [
+        "Hand Injuries"
+    ],
+    "D047928": [
+        "Premature Birth"
+    ],
+    "D018487": [
+        "Ventricular Dysfunction, Left"
+    ],
+    "D000140": [
+        "Acidosis, Lactic"
+    ],
+    "D007732": [
+        "Kwashiorkor"
+    ],
+    "D002252": [
+        "Carbon Tetrachloride Poisoning"
+    ],
+    "D015701": [
+        "Near Drowning"
+    ],
+    "D004556": [
+        "Electric Injuries"
+    ],
+    "D005627": [
+        "Frostbite"
+    ],
+    "D005383": [
+        "Finger Injuries"
+    ],
+    "D012600": [
+        "Scoliosis"
+    ],
+    "D009202": [
+        "Cardiomyopathies"
+    ],
+    "D012595": [
+        "Scleroderma, Systemic"
+    ],
+    "D045743": [
+        "Scleroderma, Diffuse"
+    ],
+    "D009389": [
+        "Neovascularization, Pathologic"
+    ],
+    "D003586": [
+        "Cytomegalovirus Infections"
+    ],
+    "D012552": [
+        "Schistosomiasis"
+    ],
+    "D009232": [
+        "Myxoma"
+    ],
+    "D013724": [
+        "Teratoma"
+    ],
+    "D002277": [
+        "Carcinoma"
+    ],
+    "D005764": [
+        "Gastroesophageal Reflux"
+    ],
+    "D006505": [
+        "Hepatitis"
+    ],
+    "D011644": [
+        "Puerperal Disorders"
+    ],
+    "D014262": [
+        "Tricuspid Valve Insufficiency"
+    ],
+    "D014648": [
+        "Varicose Veins"
+    ],
+    "D014657": [
+        "Vasculitis"
+    ],
+    "D006402": [
+        "Hematologic Diseases"
+    ],
+    "D000743": [
+        "Anemia, Hemolytic"
+    ],
+    "D000747": [
+        "Anemia, Hypochromic"
+    ],
+    "D004802": [
+        "Eosinophilia"
+    ],
+    "D013158": [
+        "Splenic Diseases"
+    ],
+    "D006406": [
+        "Hematoma"
+    ],
+    "D009336": [
+        "Necrosis"
+    ],
+    "D002644": [
+        "Chickenpox"
+    ],
+    "D005350": [
+        "Fibroma"
+    ],
+    "D002276": [
+        "Carcinoid Tumor"
+    ],
+    "D008303": [
+        "Malignant Carcinoid Syndrome"
+    ],
+    "D002345": [
+        "Carotid Body Tumor"
+    ],
+    "D006391": [
+        "Hemangioma"
+    ],
+    "D001862": [
+        "Bone Resorption"
+    ],
+    "D010005": [
+        "Osteoarthropathy, Secondary Hypertrophic"
+    ],
+    "D006521": [
+        "Hepatitis, Chronic"
+    ],
+    "D005891": [
+        "Gingivitis"
+    ],
+    "D014060": [
+        "Tongue Diseases"
+    ],
+    "D001982": [
+        "Bronchial Diseases"
+    ],
+    "D001986": [
+        "Bronchial Spasm"
+    ],
+    "D001991": [
+        "Bronchitis"
+    ],
+    "D001988": [
+        "Bronchiolitis"
+    ],
+    "D006976": [
+        "Hypertension, Pulmonary"
+    ],
+    "D017563": [
+        "Lung Diseases, Interstitial"
+    ],
+    "D054990": [
+        "Idiopathic Pulmonary Fibrosis"
+    ],
+    "D008173": [
+        "Lung Diseases, Obstructive"
+    ],
+    "D011017": [
+        "Pneumonia, Lipid"
+    ],
+    "D011649": [
+        "Pulmonary Alveolar Proteinosis"
+    ],
+    "D001261": [
+        "Pulmonary Atelectasis"
+    ],
+    "D011656": [
+        "Pulmonary Emphysema"
+    ],
+    "D011658": [
+        "Pulmonary Fibrosis"
+    ],
+    "D010996": [
+        "Pleural Effusion"
+    ],
+    "D011030": [
+        "Pneumothorax"
+    ],
+    "D012120": [
+        "Respiration Disorders"
+    ],
+    "D000402": [
+        "Airway Obstruction"
+    ],
+    "D014133": [
+        "Tracheal Diseases"
+    ],
+    "D014135": [
+        "Tracheal Stenosis"
+    ],
+    "D008581": [
+        "Meningitis"
+    ],
+    "D002305": [
+        "Cardiac Tamponade"
+    ],
+    "D002312": [
+        "Cardiomyopathy, Hypertrophic"
+    ],
+    "D009205": [
+        "Myocarditis"
+    ],
+    "D006349": [
+        "Heart Valve Diseases"
+    ],
+    "D001022": [
+        "Aortic Valve Insufficiency"
+    ],
+    "D001024": [
+        "Aortic Valve Stenosis"
+    ],
+    "D008944": [
+        "Mitral Valve Insufficiency"
+    ],
+    "D003328": [
+        "Coronary Thrombosis"
+    ],
+    "D010493": [
+        "Pericarditis"
+    ],
+    "D010494": [
+        "Pericarditis, Constrictive"
+    ],
+    "D011660": [
+        "Pulmonary Heart Disease"
+    ],
+    "D000783": [
+        "Aneurysm"
+    ],
+    "D001014": [
+        "Aortic Aneurysm"
+    ],
+    "D017545": [
+        "Aortic Aneurysm, Thoracic"
+    ],
+    "D001018": [
+        "Aortic Diseases"
+    ],
+    "D001157": [
+        "Arterial Occlusive Diseases"
+    ],
+    "D001161": [
+        "Arteriosclerosis"
+    ],
+    "D001162": [
+        "Arteriosclerosis Obliterans"
+    ],
+    "D058729": [
+        "Peripheral Arterial Disease"
+    ],
+    "D013919": [
+        "Thromboangiitis Obliterans"
+    ],
+    "D004617": [
+        "Embolism"
+    ],
+    "D004620": [
+        "Embolism, Fat"
+    ],
+    "D017700": [
+        "Embolism, Cholesterol"
+    ],
+    "D013923": [
+        "Thromboembolism"
+    ],
+    "D020246": [
+        "Venous Thrombosis"
+    ],
+    "D013924": [
+        "Thrombophlebitis"
+    ],
+    "D016491": [
+        "Peripheral Vascular Diseases"
+    ],
+    "D011928": [
+        "Raynaud Disease"
+    ],
+    "D006457": [
+        "Hemoglobinuria, Paroxysmal"
+    ],
+    "D013920": [
+        "Thrombocythemia, Essential"
+    ],
+    "D013922": [
+        "Thrombocytosis"
+    ],
+    "D006474": [
+        "Hemorrhagic Disorders"
+    ],
+    "D008708": [
+        "Methemoglobinemia"
+    ],
+    "D011086": [
+        "Polycythemia"
+    ],
+    "D008209": [
+        "Lymphedema"
+    ],
+    "D012857": [
+        "Situs Inversus"
+    ],
+    "D005148": [
+        "Facial Dermatoses"
+    ],
+    "D005533": [
+        "Foot Dermatoses"
+    ],
+    "D006229": [
+        "Hand Dermatoses"
+    ],
+    "D007868": [
+        "Leg Dermatoses"
+    ],
+    "D009260": [
+        "Nail Diseases"
+    ],
+    "D017445": [
+        "Skin Diseases, Vascular"
+    ],
+    "D012883": [
+        "Skin Ulcer"
+    ],
+    "D007871": [
+        "Leg Ulcer"
+    ],
+    "D006969": [
+        "Hypersensitivity, Immediate"
+    ],
+    "D005402": [
+        "Fistula"
+    ],
+    "D006548": [
+        "Hernia, Diaphragmatic"
+    ],
+    "D013163": [
+        "Splenomegaly"
+    ],
+    "D004646": [
+        "Emphysema"
+    ],
+    "D002921": [
+        "Cicatrix"
+    ],
+    "D005734": [
+        "Gangrene"
+    ],
+    "D005517": [
+        "Foodborne Diseases"
+    ],
+    "D005547": [
+        "Foreign Bodies"
+    ],
+    "D013898": [
+        "Thoracic Injuries"
+    ],
+    "D006335": [
+        "Heart Injuries"
+    ],
+    "D012164": [
+        "Retinal Diseases"
+    ],
+    "D011666": [
+        "Pulmonary Valve Stenosis"
+    ],
+    "D014694": [
+        "Ventricular Outflow Obstruction"
+    ],
+    "D002647": [
+        "Chilblains"
+    ],
+    "D004719": [
+        "Endomyocardial Fibrosis"
+    ],
+    "D018497": [
+        "Ventricular Dysfunction, Right"
+    ],
+    "D013684": [
+        "Telangiectasis"
+    ],
+    "D014689": [
+        "Venous Insufficiency"
+    ],
+    "D007642": [
+        "Keratosis"
+    ],
+    "D001602": [
+        "Beriberi"
+    ],
+    "D009264": [
+        "Nails, Malformed"
+    ],
+    "D006083": [
+        "Graft Occlusion, Vascular"
+    ],
+    "D012163": [
+        "Retinal Detachment"
+    ],
+    "D004695": [
+        "Endocardial Fibroelastosis"
+    ],
+    "D012422": [
+        "Rupture, Spontaneous"
+    ],
+    "D013479": [
+        "Superior Vena Cava Syndrome"
+    ],
+    "D014264": [
+        "Tricuspid Valve Stenosis"
+    ],
+    "D012207": [
+        "Rhabdomyoma"
+    ],
+    "D013436": [
+        "Sulfhemoglobinemia"
+    ],
+    "D013122": [
+        "Spinal Diseases"
+    ],
+    "D007592": [
+        "Joint Diseases"
+    ],
+    "D028361": [
+        "Mitochondrial Diseases"
+    ],
+    "D010257": [
+        "Paraneoplastic Syndromes"
+    ],
+    "D013167": [
+        "Spondylitis, Ankylosing"
+    ],
+    "D003286": [
+        "Contracture"
+    ],
+    "D009212": [
+        "Myoglobinuria"
+    ],
+    "D001480": [
+        "Basal Ganglia Diseases"
+    ],
+    "D010301": [
+        "Parkinson Disease, Postencephalitic"
+    ],
+    "D009069": [
+        "Movement Disorders"
+    ],
+    "D013118": [
+        "Spinal Cord Diseases"
+    ],
+    "D000309": [
+        "Adrenal Insufficiency"
+    ],
+    "D009187": [
+        "Myelitis"
+    ],
+    "D018288": [
+        "Carcinoma, Small Cell"
+    ],
+    "D020734": [
+        "Parkinsonian Disorders"
+    ],
+    "D010302": [
+        "Parkinson Disease, Secondary"
+    ],
+    "D002526": [
+        "Cerebellar Diseases"
+    ],
+    "D007562": [
+        "Creutzfeldt-Jakob Syndrome"
+    ],
+    "D004679": [
+        "Encephalomyelitis"
+    ],
+    "D011559": [
+        "Pseudotumor Cerebri"
+    ],
+    "D009408": [
+        "Nerve Compression Syndromes"
+    ],
+    "D002869": [
+        "Chromosome Aberrations"
+    ],
+    "D020230": [
+        "Serotonin Syndrome"
+    ],
+    "D008141": [
+        "Lordosis"
+    ],
+    "D016472": [
+        "Motor Neuron Disease"
+    ],
+    "D020961": [
+        "Lewy Body Disease"
+    ],
+    "D030342": [
+        "Genetic Diseases, Inborn"
+    ],
+    "D024821": [
+        "Metabolic Syndrome X"
+    ],
+    "D015228": [
+        "Hypertriglyceridemia"
+    ],
+    "D014808": [
+        "Vitamin D Deficiency"
+    ],
+    "D006547": [
+        "Hernia"
+    ],
+    "D007918": [
+        "Leprosy"
+    ],
+    "D013203": [
+        "Staphylococcal Infections"
+    ],
+    "D010229": [
+        "Paracoccidioidomycosis"
+    ],
+    "D004443": [
+        "Echinococcosis"
+    ],
+    "D016778": [
+        "Malaria, Falciparum"
+    ],
+    "D003884": [
+        "Dermoid Cyst"
+    ],
+    "D015470": [
+        "Leukemia, Myeloid, Acute"
+    ],
+    "D007890": [
+        "Leiomyosarcoma"
+    ],
+    "D009217": [
+        "Myosarcoma"
+    ],
+    "D018237": [
+        "Germinoma"
+    ],
+    "D005910": [
+        "Glioma"
+    ],
+    "D008545": [
+        "Melanoma"
+    ],
+    "D009442": [
+        "Neurilemmoma"
+    ],
+    "D000236": [
+        "Adenoma"
+    ],
+    "D002291": [
+        "Carcinoma, Papillary"
+    ],
+    "D002294": [
+        "Carcinoma, Squamous Cell"
+    ],
+    "D006258": [
+        "Head and Neck Neoplasms"
+    ],
+    "D009378": [
+        "Neoplasms, Multiple Primary"
+    ],
+    "D007738": [
+        "Kyphosis"
+    ],
+    "D005208": [
+        "Fasciitis"
+    ],
+    "D001168": [
+        "Arthritis"
+    ],
+    "D010003": [
+        "Osteoarthritis"
+    ],
+    "D005767": [
+        "Gastrointestinal Diseases"
+    ],
+    "D003093": [
+        "Colitis, Ulcerative"
+    ],
+    "D003424": [
+        "Crohn Disease"
+    ],
+    "D013272": [
+        "Stomach Diseases"
+    ],
+    "D029424": [
+        "Pulmonary Disease, Chronic Obstructive"
+    ],
+    "D004828": [
+        "Epilepsies, Partial"
+    ],
+    "D004829": [
+        "Epilepsy, Generalized"
+    ],
+    "D013786": [
+        "Thalamic Diseases"
+    ],
+    "D013595": [
+        "Syringomyelia"
+    ],
+    "D003389": [
+        "Cranial Nerve Diseases"
+    ],
+    "D020968": [
+        "Brachial Plexus Neuritis"
+    ],
+    "D012148": [
+        "Restless Legs Syndrome"
+    ],
+    "D001763": [
+        "Blepharoptosis"
+    ],
+    "D006322": [
+        "Heart Aneurysm"
+    ],
+    "D011164": [
+        "Porphyrias"
+    ],
+    "D005076": [
+        "Exanthema"
+    ],
+    "D006934": [
+        "Hypercalcemia"
+    ],
+    "D006937": [
+        "Hypercholesterolemia"
+    ],
+    "D000686": [
+        "Amyloidosis"
+    ],
+    "D003677": [
+        "Deficiency Diseases"
+    ],
+    "D014806": [
+        "Vitamin B 12 Deficiency"
+    ],
+    "D008275": [
+        "Magnesium Deficiency"
+    ],
+    "D000308": [
+        "Adrenocortical Hyperfunction"
+    ],
+    "D003480": [
+        "Cushing Syndrome"
+    ],
+    "D006929": [
+        "Hyperaldosteronism"
+    ],
+    "D006961": [
+        "Hyperparathyroidism"
+    ],
+    "D013958": [
+        "Thyroid Crisis"
+    ],
+    "D016736": [
+        "Antiphospholipid Syndrome"
+    ],
+    "D006967": [
+        "Hypersensitivity"
+    ],
+    "D007855": [
+        "Lead Poisoning"
+    ],
+    "D016873": [
+        "Ehrlichiosis"
+    ],
+    "D008193": [
+        "Lyme Disease"
+    ],
+    "D008554": [
+        "Melioidosis"
+    ],
+    "D002169": [
+        "Campylobacter Infections"
+    ],
+    "D012480": [
+        "Salmonella Infections"
+    ],
+    "D005674": [
+        "Fusobacterium Infections"
+    ],
+    "D011552": [
+        "Pseudomonas Infections"
+    ],
+    "D016908": [
+        "Gram-Positive Bacterial Infections"
+    ],
+    "D000196": [
+        "Actinomycosis"
+    ],
+    "D014375": [
+        "Tuberculoma"
+    ],
+    "D009617": [
+        "Nocardia Infections"
+    ],
+    "D008088": [
+        "Listeriosis"
+    ],
+    "D001228": [
+        "Aspergillosis"
+    ],
+    "D003453": [
+        "Cryptococcosis"
+    ],
+    "D009091": [
+        "Mucormycosis"
+    ],
+    "D003715": [
+        "Dengue"
+    ],
+    "D006566": [
+        "Herpesviridae Infections"
+    ],
+    "D020031": [
+        "Epstein-Barr Virus Infections"
+    ],
+    "D006562": [
+        "Herpes Zoster"
+    ],
+    "D030361": [
+        "Papillomavirus Infections"
+    ],
+    "D003384": [
+        "Coxsackievirus Infections"
+    ],
+    "D014412": [
+        "Tumor Virus Infections"
+    ],
+    "D016780": [
+        "Malaria, Vivax"
+    ],
+    "D004814": [
+        "Epidermal Cyst"
+    ],
+    "D006222": [
+        "Hamartoma"
+    ],
+    "D010016": [
+        "Osteoma"
+    ],
+    "D012516": [
+        "Osteosarcoma"
+    ],
+    "D012208": [
+        "Rhabdomyosarcoma"
+    ],
+    "D009373": [
+        "Neoplasms, Germ Cell and Embryonal"
+    ],
+    "D001254": [
+        "Astrocytoma"
+    ],
+    "D005909": [
+        "Glioblastoma"
+    ],
+    "D004806": [
+        "Ependymoma"
+    ],
+    "D009447": [
+        "Neuroblastoma"
+    ],
+    "D010236": [
+        "Paraganglioma, Extra-Adrenal"
+    ],
+    "D010673": [
+        "Pheochromocytoma"
+    ],
+    "D002295": [
+        "Carcinoma, Transitional Cell"
+    ],
+    "D006393": [
+        "Hemangiopericytoma"
+    ],
+    "D012983": [
+        "Soft Tissue Neoplasms"
+    ],
+    "D010001": [
+        "Osteitis Deformans"
+    ],
+    "D013128": [
+        "Spinal Osteophytosis"
+    ],
+    "D013130": [
+        "Spinal Stenosis"
+    ],
+    "D002805": [
+        "Chondrocalcinosis"
+    ],
+    "D002062": [
+        "Bursitis"
+    ],
+    "D016916": [
+        "Joint Deformities, Acquired"
+    ],
+    "D013585": [
+        "Synovitis"
+    ],
+    "D007418": [
+        "Intestinal Pseudo-Obstruction"
+    ],
+    "D007579": [
+        "Jejunal Diseases"
+    ],
+    "D008575": [
+        "Meniere Disease"
+    ],
+    "D008590": [
+        "Meningoencephalitis"
+    ],
+    "D004831": [
+        "Epilepsies, Myoclonic"
+    ],
+    "D004833": [
+        "Epilepsy, Temporal Lobe"
+    ],
+    "D013036": [
+        "Spasms, Infantile"
+    ],
+    "D020325": [
+        "Migraine with Aura"
+    ],
+    "D020343": [
+        "Hypertensive Encephalopathy"
+    ],
+    "D013353": [
+        "Subdural Effusion"
+    ],
+    "D020434": [
+        "Abducens Nerve Diseases"
+    ],
+    "D020516": [
+        "Brachial Plexus Neuropathies"
+    ],
+    "D020426": [
+        "Sciatic Neuropathy"
+    ],
+    "D009443": [
+        "Neuritis"
+    ],
+    "D011128": [
+        "Polyradiculopathy"
+    ],
+    "D011843": [
+        "Radiculopathy"
+    ],
+    "D002385": [
+        "Cataplexy"
+    ],
+    "D005141": [
+        "Eyelid Diseases"
+    ],
+    "D015878": [
+        "Mydriasis"
+    ],
+    "D007172": [
+        "Erectile Dysfunction"
+    ],
+    "D002311": [
+        "Cardiomyopathy, Dilated"
+    ],
+    "D000784": [
+        "Aneurysm, Dissecting"
+    ],
+    "D017541": [
+        "Aneurysm, False"
+    ],
+    "D017542": [
+        "Aneurysm, Ruptured"
+    ],
+    "D017544": [
+        "Aortic Aneurysm, Abdominal"
+    ],
+    "D004618": [
+        "Embolism, Air"
+    ],
+    "D017681": [
+        "Hypereosinophilic Syndrome"
+    ],
+    "D008218": [
+        "Lymphocytosis"
+    ],
+    "D015616": [
+        "Histiocytosis, Non-Langerhans-Cell"
+    ],
+    "D031249": [
+        "Erdheim-Chester Disease"
+    ],
+    "D015618": [
+        "Histiocytosis, Sinus"
+    ],
+    "D013952": [
+        "Thymus Hyperplasia"
+    ],
+    "D010505": [
+        "Familial Mediterranean Fever"
+    ],
+    "D008947": [
+        "Mixed Connective Tissue Disease"
+    ],
+    "D010787": [
+        "Photosensitivity Disorders"
+    ],
+    "D017511": [
+        "Pyoderma Gangrenosum"
+    ],
+    "D012872": [
+        "Skin Diseases, Vesiculobullous"
+    ],
+    "D008659": [
+        "Metabolic Diseases"
+    ],
+    "D006996": [
+        "Hypocalcemia"
+    ],
+    "D017674": [
+        "Hypophosphatemia"
+    ],
+    "D011191": [
+        "Potassium Deficiency"
+    ],
+    "D007006": [
+        "Hypogonadism"
+    ],
+    "D013971": [
+        "Thyrotoxicosis"
+    ],
+    "D050031": [
+        "Hashimoto Disease"
+    ],
+    "D006086": [
+        "Graft vs Host Disease"
+    ],
+    "D005183": [
+        "Failure to Thrive"
+    ],
+    "D007238": [
+        "Infarction"
+    ],
+    "D009999": [
+        "Ossification, Heterotopic"
+    ],
+    "D002189": [
+        "Marijuana Abuse"
+    ],
+    "D015819": [
+        "Substance Abuse, Intravenous"
+    ],
+    "D013124": [
+        "Spinal Injuries"
+    ],
+    "D016103": [
+        "Spinal Fractures"
+    ],
+    "D003665": [
+        "Decompression Sickness"
+    ],
+    "D002057": [
+        "Burns, Chemical"
+    ],
+    "D002058": [
+        "Burns, Electric"
+    ],
+    "D012090": [
+        "Cumulative Trauma Disorders"
+    ],
+    "D013708": [
+        "Tendon Injuries"
+    ],
+    "D014948": [
+        "Wounds, Gunshot"
+    ],
+    "D014951": [
+        "Wounds, Stab"
+    ],
+    "D015207": [
+        "Osteoarthritis, Hip"
+    ],
+    "D015837": [
+        "Vestibular Diseases"
+    ],
+    "D006850": [
+        "Hydrocephalus, Normal Pressure"
+    ],
+    "D040181": [
+        "Genetic Diseases, X-Linked"
+    ],
+    "D006962": [
+        "Hyperparathyroidism, Secondary"
+    ],
+    "D009209": [
+        "Myofascial Pain Syndromes"
+    ],
+    "D005242": [
+        "Fecal Incontinence"
+    ],
+    "D006940": [
+        "Hyperemia"
+    ],
+    "D006620": [
+        "Hip Fractures"
+    ],
+    "D016512": [
+        "Ankle Injuries"
+    ],
+    "D027601": [
+        "Polyomavirus Infections"
+    ],
+    "D018302": [
+        "Neoplasms, Neuroepithelial"
+    ],
+    "D009506": [
+        "Nevus"
+    ],
+    "D013121": [
+        "Spinal Curvatures"
+    ],
+    "D013168": [
+        "Spondylolisthesis"
+    ],
+    "D005531": [
+        "Foot Deformities, Acquired"
+    ],
+    "D020370": [
+        "Osteoarthritis, Knee"
+    ],
+    "D007593": [
+        "Joint Instability"
+    ],
+    "D005882": [
+        "Gingival Diseases"
+    ],
+    "D019578": [
+        "Multiple System Atrophy"
+    ],
+    "D009134": [
+        "Muscular Atrophy, Spinal"
+    ],
+    "D020437": [
+        "Hypoglossal Nerve Diseases"
+    ],
+    "D010244": [
+        "Bulbar Palsy, Progressive"
+    ],
+    "D020511": [
+        "Neuromuscular Junction Diseases"
+    ],
+    "D020422": [
+        "Mononeuropathies"
+    ],
+    "D020423": [
+        "Median Neuropathy"
+    ],
+    "D002115": [
+        "Calciphylaxis"
+    ],
+    "D019282": [
+        "Wasting Syndrome"
+    ],
+    "D014811": [
+        "Vitamin E Deficiency"
+    ],
+    "D001284": [
+        "Atrophy"
+    ],
+    "D006984": [
+        "Hypertrophy"
+    ],
+    "D008630": [
+        "Mercury Poisoning"
+    ],
+    "D006810": [
+        "Humeral Fractures"
+    ],
+    "D007718": [
+        "Knee Injuries"
+    ],
+    "D019838": [
+        "Neck Injuries"
+    ],
+    "D014911": [
+        "Whiplash Injuries"
+    ],
+    "D013180": [
+        "Sprains and Strains"
+    ],
+    "D009508": [
+        "Nevus, Pigmented"
+    ],
+    "D049292": [
+        "Leukoaraiosis"
+    ],
+    "D000182": [
+        "ACTH Syndrome, Ectopic"
+    ],
+    "D055397": [
+        "Ventilator-Induced Lung Injury"
+    ],
+    "D020428": [
+        "Femoral Neuropathy"
+    ],
+    "D008637": [
+        "Mesenchymoma"
+    ],
+    "D020427": [
+        "Peroneal Neuropathies"
+    ],
+    "D012594": [
+        "Scleroderma, Localized"
+    ],
+    "D009837": [
+        "Oligodendroglioma"
+    ],
+    "D013581": [
+        "Synovial Cyst"
+    ],
+    "D046788": [
+        "Patellofemoral Pain Syndrome"
+    ],
+    "D018455": [
+        "Protein S Deficiency"
+    ],
+    "D018325": [
+        "Hemangioblastoma"
+    ],
+    "D020425": [
+        "Radial Neuropathy"
+    ],
+    "D020424": [
+        "Ulnar Neuropathies"
+    ],
+    "D001764": [
+        "Blepharospasm"
+    ],
+    "D046748": [
+        "Hematoma, Epidural, Spinal"
+    ],
+    "D014855": [
+        "Wallerian Degeneration"
+    ],
+    "D025981": [
+        "Hip Injuries"
+    ],
+    "D045464": [
+        "Henipavirus Infections"
+    ],
+    "D051270": [
+        "Headache Disorders, Primary"
+    ],
+    "D020821": [
+        "Dystonic Disorders"
+    ],
+    "D053447": [
+        "Channelopathies"
+    ],
+    "D020083": [
+        "Acquired Hyperostosis Syndrome"
+    ],
+    "D018206": [
+        "Angiolipoma"
+    ],
+    "D018303": [
+        "Ganglioglioma"
+    ],
+    "D055009": [
+        "Spondylosis"
+    ],
+    "D020938": [
+        "Epilepsy, Partial, Motor"
+    ],
+    "D020436": [
+        "Accessory Nerve Diseases"
+    ],
+    "D018315": [
+        "Glioma, Subependymal"
+    ],
+    "D031368": [
+        "Zoster Sine Herpete"
+    ],
+    "D001847": [
+        "Bone Diseases"
+    ],
+    "D007248": [
+        "Infertility, Male"
+    ],
+    "D002006": [
+        "Brucellosis"
+    ],
+    "D013478": [
+        "Superior Mesenteric Artery Syndrome"
+    ],
+    "D001100": [
+        "Arachnoiditis"
+    ],
+    "D000307": [
+        "Adrenal Gland Diseases"
+    ],
+    "D013959": [
+        "Thyroid Diseases"
+    ],
+    "D016905": [
+        "Gram-Negative Bacterial Infections"
+    ],
+    "D007710": [
+        "Klebsiella Infections"
+    ],
+    "D011512": [
+        "Proteus Infections"
+    ],
+    "D009175": [
+        "Mycoplasma Infections"
+    ],
+    "D008582": [
+        "Meningitis, Aseptic"
+    ],
+    "D006394": [
+        "Hemangiosarcoma"
+    ],
+    "D010014": [
+        "Osteolysis"
+    ],
+    "D009221": [
+        "Myositis Ossificans"
+    ],
+    "D004935": [
+        "Esophageal Diseases"
+    ],
+    "D003108": [
+        "Colonic Diseases"
+    ],
+    "D004380": [
+        "Duodenal Obstruction"
+    ],
+    "D007415": [
+        "Intestinal Obstruction"
+    ],
+    "D007416": [
+        "Intestinal Perforation"
+    ],
+    "D013271": [
+        "Gastric Dilatation"
+    ],
+    "D019283": [
+        "Pancreatitis, Acute Necrotizing"
+    ],
+    "D010510": [
+        "Periodontal Diseases"
+    ],
+    "D003731": [
+        "Dental Caries"
+    ],
+    "D016535": [
+        "Bronchial Hyperreactivity"
+    ],
+    "D000405": [
+        "Akinetic Mutism"
+    ],
+    "D002825": [
+        "Chorioretinitis"
+    ],
+    "D007744": [
+        "Obstetric Labor Complications"
+    ],
+    "D007752": [
+        "Obstetric Labor, Premature"
+    ],
+    "D006944": [
+        "Hyperglycemic Hyperosmolar Nonketotic Coma"
+    ],
+    "D002828": [
+        "Choristoma"
+    ],
+    "D006551": [
+        "Hernia, Hiatal"
+    ],
+    "D012729": [
+        "Sex Chromosome Aberrations"
+    ],
+    "D002908": [
+        "Chronic Disease"
+    ],
+    "D006104": [
+        "Granuloma, Plasma Cell"
+    ],
+    "D006556": [
+        "Heroin Dependence"
+    ],
+    "D003288": [
+        "Contusions"
+    ],
+    "D005548": [
+        "Foreign-Body Migration"
+    ],
+    "D005264": [
+        "Femoral Fractures"
+    ],
+    "D014950": [
+        "Wounds, Penetrating"
+    ],
+    "D015576": [
+        "Hyperostosis"
+    ],
+    "D002817": [
+        "Chordoma"
+    ],
+    "D020211": [
+        "Autonomic Dysreflexia"
+    ],
+    "D018460": [
+        "Fractures, Comminuted"
+    ],
+    "D002812": [
+        "Chondroma"
+    ],
+    "D005359": [
+        "Fibrous Dysplasia, Polyostotic"
+    ],
+    "D010026": [
+        "Osteosclerosis"
+    ],
+    "D004839": [
+        "Epiphyses, Slipped"
+    ],
+    "D000844": [
+        "Ankylosis"
+    ],
+    "D001177": [
+        "Arthropathy, Neurogenic"
+    ],
+    "D008310": [
+        "Malocclusion"
+    ],
+    "D012019": [
+        "Reflex Sympathetic Dystrophy"
+    ],
+    "D004678": [
+        "Encephalomalacia"
+    ],
+    "D005458": [
+        "Fluoride Poisoning"
+    ],
+    "D006227": [
+        "Hand Deformities, Acquired"
+    ],
+    "D005870": [
+        "Giant Cell Tumors"
+    ],
+    "D004057": [
+        "Hyperostosis, Diffuse Idiopathic Skeletal"
+    ],
+    "D019585": [
+        "Intracranial Hypotension"
+    ],
+    "D001134": [
+        "Arm Injuries"
+    ],
+    "D013169": [
+        "Spondylolysis"
+    ],
+    "D008309": [
+        "Mallory-Weiss Syndrome"
+    ],
+    "D018357": [
+        "Respiratory Syncytial Virus Infections"
+    ],
+    "D004165": [
+        "Diphtheria"
+    ],
+    "D043183": [
+        "Irritable Bowel Syndrome"
+    ],
+    "D004832": [
+        "Epilepsy, Absence"
+    ],
+    "D011470": [
+        "Prostatic Hyperplasia"
+    ],
+    "D011605": [
+        "Psychoses, Substance-Induced"
+    ],
+    "D012409": [
+        "Rubella"
+    ],
+    "D006390": [
+        "Hemangioendothelioma"
+    ],
+    "D004931": [
+        "Esophageal Achalasia"
+    ],
+    "D004751": [
+        "Enteritis"
+    ],
+    "D008531": [
+        "Megacolon"
+    ],
+    "D012002": [
+        "Rectal Diseases"
+    ],
+    "D001004": [
+        "Anus Diseases"
+    ],
+    "D011015": [
+        "Pneumonia, Aspiration"
+    ],
+    "D004427": [
+        "Ear Diseases"
+    ],
+    "D007759": [
+        "Labyrinth Diseases"
+    ],
+    "D013981": [
+        "Tic Disorders"
+    ],
+    "D007766": [
+        "Lacrimal Apparatus Diseases"
+    ],
+    "D013086": [
+        "Spermatic Cord Torsion"
+    ],
+    "D011297": [
+        "Prenatal Exposure Delayed Effects"
+    ],
+    "D004485": [
+        "Eczema"
+    ],
+    "D007007": [
+        "Hypohidrosis"
+    ],
+    "D014973": [
+        "Xanthomatosis"
+    ],
+    "D005494": [
+        "Folic Acid Deficiency"
+    ],
+    "D007011": [
+        "Hypoparathyroidism"
+    ],
+    "D013986": [
+        "Tick Toxicoses"
+    ],
+    "D003109": [
+        "Colonic Diseases, Functional"
+    ],
+    "D015834": [
+        "Cochlear Diseases"
+    ],
+    "D010040": [
+        "Otosclerosis"
+    ],
+    "D003027": [
+        "Cluster Headache"
+    ],
+    "D020421": [
+        "Vagus Nerve Diseases"
+    ],
+    "D008538": [
+        "Meige Syndrome"
+    ],
+    "D020189": [
+        "Nocturnal Myoclonus Syndrome"
+    ],
+    "D003095": [
+        "Collagen Diseases"
+    ],
+    "D014435": [
+        "Typhoid Fever"
+    ],
+    "D008589": [
+        "Meningococcal Infections"
+    ],
+    "D014376": [
+        "Tuberculosis"
+    ],
+    "D009181": [
+        "Mycoses"
+    ],
+    "D006480": [
+        "Hemorrhagic Fever with Renal Syndrome"
+    ],
+    "D014123": [
+        "Toxoplasmosis"
+    ],
+    "D014353": [
+        "Trypanosomiasis, African"
+    ],
+    "D007938": [
+        "Leukemia"
+    ],
+    "D007951": [
+        "Leukemia, Myeloid"
+    ],
+    "D007889": [
+        "Leiomyoma"
+    ],
+    "D003397": [
+        "Craniopharyngioma"
+    ],
+    "D005153": [
+        "Facial Neoplasms"
+    ],
+    "D006970": [
+        "Disorders of Excessive Somnolence"
+    ],
+    "D010922": [
+        "Placenta Diseases"
+    ],
+    "D008945": [
+        "Mitral Valve Prolapse"
+    ],
+    "D000741": [
+        "Anemia, Aplastic"
+    ],
+    "D000749": [
+        "Anemia, Megaloblastic"
+    ],
+    "D008206": [
+        "Lymphatic Diseases"
+    ],
+    "D008199": [
+        "Lymphadenitis"
+    ],
+    "D017495": [
+        "Hyperpigmentation"
+    ],
+    "D014804": [
+        "Vitamin B Deficiency"
+    ],
+    "D014314": [
+        "Trisomy"
+    ],
+    "D008599": [
+        "Menstruation Disturbances"
+    ],
+    "D000568": [
+        "Amenorrhea"
+    ],
+    "D011604": [
+        "Psychoses, Alcoholic"
+    ],
+    "D001630": [
+        "Bezoars"
+    ],
+    "D001442": [
+        "Bacteroides Infections"
+    ],
+    "D004756": [
+        "Enterobacteriaceae Infections"
+    ],
+    "D010284": [
+        "Paratyphoid Fever"
+    ],
+    "D006192": [
+        "Haemophilus Infections"
+    ],
+    "D001907": [
+        "Boutonneuse Fever"
+    ],
+    "D012373": [
+        "Rocky Mountain Spotted Fever"
+    ],
+    "D015440": [
+        "Leprosy, Lepromatous"
+    ],
+    "D014388": [
+        "Tuberculosis, Lymph Node"
+    ],
+    "D014391": [
+        "Tuberculosis, Miliary"
+    ],
+    "D018088": [
+        "Tuberculosis, Multidrug-Resistant"
+    ],
+    "D020096": [
+        "Zygomycosis"
+    ],
+    "D019595": [
+        "Dengue Hemorrhagic Fever"
+    ],
+    "D000257": [
+        "Adenoviridae Infections"
+    ],
+    "D000258": [
+        "Adenovirus Infections, Human"
+    ],
+    "D019349": [
+        "Roseolovirus Infections"
+    ],
+    "D010322": [
+        "Parvoviridae Infections"
+    ],
+    "D007835": [
+        "Lassa Fever"
+    ],
+    "D017250": [
+        "Caliciviridae Infections"
+    ],
+    "D018184": [
+        "Paramyxoviridae Infections"
+    ],
+    "D008457": [
+        "Measles"
+    ],
+    "D011818": [
+        "Rabies"
+    ],
+    "D018188": [
+        "Cardiovirus Infections"
+    ],
+    "D004769": [
+        "Enterovirus Infections"
+    ],
+    "D012400": [
+        "Rotavirus Infections"
+    ],
+    "D013031": [
+        "Sparganosis"
+    ],
+    "D009078": [
+        "Mucocele"
+    ],
+    "D012512": [
+        "Sarcoma, Ewing's"
+    ],
+    "D051642": [
+        "Histiocytoma"
+    ],
+    "D018219": [
+        "Histiocytoma, Benign Fibrous"
+    ],
+    "D012509": [
+        "Sarcoma"
+    ],
+    "D018239": [
+        "Seminoma"
+    ],
+    "D008527": [
+        "Medulloblastoma"
+    ],
+    "D010212": [
+        "Papilloma"
+    ],
+    "D000008": [
+        "Abdominal Neoplasms"
+    ],
+    "D016609": [
+        "Neoplasms, Second Primary"
+    ],
+    "D010022": [
+        "Osteopetrosis"
+    ],
+    "D002779": [
+        "Cholestasis"
+    ],
+    "D005759": [
+        "Gastroenteritis"
+    ],
+    "D011707": [
+        "Pyloric Stenosis"
+    ],
+    "D010182": [
+        "Pancreatic Diseases"
+    ],
+    "D009059": [
+        "Mouth Diseases"
+    ],
+    "D001996": [
+        "Bronchopneumonia"
+    ],
+    "D014136": [
+        "Tracheitis"
+    ],
+    "D010031": [
+        "Otitis"
+    ],
+    "D010033": [
+        "Otitis Media"
+    ],
+    "D020190": [
+        "Myoclonic Epilepsy, Juvenile"
+    ],
+    "D017029": [
+        "Epilepsy, Complex Partial"
+    ],
+    "D019305": [
+        "Epilepsy, Rolandic"
+    ],
+    "D020773": [
+        "Headache Disorders"
+    ],
+    "D054038": [
+        "Posterior Leukoencephalopathy Syndrome"
+    ],
+    "D013009": [
+        "Somnambulism"
+    ],
+    "D005901": [
+        "Glaucoma"
+    ],
+    "D005094": [
+        "Exophthalmos"
+    ],
+    "D009216": [
+        "Myopia"
+    ],
+    "D008268": [
+        "Macular Degeneration"
+    ],
+    "D015422": [
+        "Scleral Diseases"
+    ],
+    "D011254": [
+        "Pregnancy in Diabetics"
+    ],
+    "D054549": [
+        "Takotsubo Cardiomyopathy"
+    ],
+    "D000798": [
+        "Angiomatosis"
+    ],
+    "D001167": [
+        "Arteritis"
+    ],
+    "D006974": [
+        "Hypertension, Malignant"
+    ],
+    "D010689": [
+        "Phlebitis"
+    ],
+    "D000748": [
+        "Anemia, Macrocytic"
+    ],
+    "D001855": [
+        "Bone Marrow Diseases"
+    ],
+    "D055728": [
+        "Primary Myelofibrosis"
+    ],
+    "D000380": [
+        "Agranulocytosis"
+    ],
+    "D009503": [
+        "Neutropenia"
+    ],
+    "D051359": [
+        "Lymphohistiocytosis, Hemophagocytic"
+    ],
+    "D019310": [
+        "Pseudolymphoma"
+    ],
+    "D000014": [
+        "Abnormalities, Drug-Induced"
+    ],
+    "D025063": [
+        "Chromosome Disorders"
+    ],
+    "D008178": [
+        "Lupus Erythematosus, Cutaneous"
+    ],
+    "D004892": [
+        "Erythema Multiforme"
+    ],
+    "D010760": [
+        "Phosphorus Metabolism Disorders"
+    ],
+    "D014802": [
+        "Vitamin A Deficiency"
+    ],
+    "D026681": [
+        "Vitamin B 6 Deficiency"
+    ],
+    "D010279": [
+        "Parathyroid Diseases"
+    ],
+    "D007153": [
+        "Immunologic Deficiency Syndromes"
+    ],
+    "D005146": [
+        "Facial Asymmetry"
+    ],
+    "D006552": [
+        "Hernia, Inguinal"
+    ],
+    "D001201": [
+        "Ascites"
+    ],
+    "D004198": [
+        "Disease Susceptibility"
+    ],
+    "D004200": [
+        "Diseases in Twins"
+    ],
+    "D004630": [
+        "Emergencies"
+    ],
+    "D019066": [
+        "Facies"
+    ],
+    "D013352": [
+        "Subcutaneous Emphysema"
+    ],
+    "D019106": [
+        "Postoperative Hemorrhage"
+    ],
+    "D006932": [
+        "Hyperbilirubinemia"
+    ],
+    "D000382": [
+        "Agricultural Workers' Diseases"
+    ],
+    "D019969": [
+        "Amphetamine-Related Disorders"
+    ],
+    "D064420": [
+        "Drug Toxicity"
+    ],
+    "D004881": [
+        "Ergotism"
+    ],
+    "D001469": [
+        "Barotrauma"
+    ],
+    "D005596": [
+        "Fractures, Closed"
+    ],
+    "D005598": [
+        "Fractures, Spontaneous"
+    ],
+    "D017034": [
+        "Epilepsy, Frontal Lobe"
+    ],
+    "D020195": [
+        "Epilepsy, Reflex"
+    ],
+    "D058687": [
+        "Out-of-Hospital Cardiac Arrest"
+    ],
+    "D048909": [
+        "Diabetes Complications"
+    ],
+    "D011629": [
+        "Puberty, Precocious"
+    ],
+    "D001734": [
+        "Bites, Human"
+    ],
+    "D002813": [
+        "Chondrosarcoma"
+    ],
+    "D005729": [
+        "Ganglioneuroma"
+    ],
+    "D005357": [
+        "Fibrous Dysplasia of Bone"
+    ],
+    "D005885": [
+        "Gingival Hyperplasia"
+    ],
+    "D008260": [
+        "Macroglossia"
+    ],
+    "D020919": [
+        "Sleep Disorders, Intrinsic"
+    ],
+    "D003318": [
+        "Corneal Opacity"
+    ],
+    "D012162": [
+        "Retinal Degeneration"
+    ],
+    "D017359": [
+        "HELLP Syndrome"
+    ],
+    "D034141": [
+        "Hypoalbuminemia"
+    ],
+    "D019851": [
+        "Thrombophilia"
+    ],
+    "D006983": [
+        "Hypertrichosis"
+    ],
+    "D008548": [
+        "Melanosis"
+    ],
+    "D000052": [
+        "Acanthosis Nigricans"
+    ],
+    "D010842": [
+        "Pica"
+    ],
+    "D014997": [
+        "XYY Karyotype"
+    ],
+    "D014178": [
+        "Translocation, Genetic"
+    ],
+    "D009293": [
+        "Opioid-Related Disorders"
+    ],
+    "D014029": [
+        "Tobacco Use Disorder"
+    ],
+    "D005265": [
+        "Femoral Neck Fractures"
+    ],
+    "D018242": [
+        "Neuroectodermal Tumors, Primitive"
+    ],
+    "D012598": [
+        "Sclerosis"
+    ],
+    "D012784": [
+        "Shoulder Fractures"
+    ],
+    "D007715": [
+        "Klippel-Trenaunay-Weber Syndrome"
+    ],
+    "D003551": [
+        "Cysticercosis"
+    ],
+    "D020326": [
+        "Migraine without Aura"
+    ],
+    "D018781": [
+        "Tension-Type Headache"
+    ],
+    "D018322": [
+        "Angiofibroma"
+    ],
+    "D020447": [
+        "Parasomnias"
+    ],
+    "D002128": [
+        "Calcium Metabolism Disorders"
+    ],
+    "D018241": [
+        "Neuroectodermal Tumors, Primitive, Peripheral"
+    ],
+    "D056784": [
+        "Leukoencephalopathies"
+    ],
+    "D017496": [
+        "Hypopigmentation"
+    ],
+    "D020232": [
+        "Kluver-Bucy Syndrome"
+    ],
+    "D020191": [
+        "Myoclonic Epilepsies, Progressive"
+    ],
+    "D019150": [
+        "Neuroaxonal Dystrophies"
+    ],
+    "D020183": [
+        "Nocturnal Paroxysmal Dystonia"
+    ],
+    "D018887": [
+        "Landau-Kleffner Syndrome"
+    ],
+    "D058674": [
+        "Chromosome Duplication"
+    ],
+    "D051299": [
+        "Post-Dural Puncture Headache"
+    ],
+    "D054877": [
+        "Wolf-Hirschhorn Syndrome"
+    ],
+    "D009976": [
+        "Orthomyxoviridae Infections"
+    ],
+    "D016481": [
+        "Helicobacter Infections"
+    ],
+    "D000562": [
+        "Amebiasis"
+    ],
+    "D004941": [
+        "Esophagitis"
+    ],
+    "D005756": [
+        "Gastritis"
+    ],
+    "D010437": [
+        "Peptic Ulcer"
+    ],
+    "D007443": [
+        "Intussusception"
+    ],
+    "D001361": [
+        "Avitaminosis"
+    ],
+    "D003141": [
+        "Communicable Diseases"
+    ],
+    "D017206": [
+        "Strongylida Infections"
+    ],
+    "D002279": [
+        "Carcinoma 256, Walker"
+    ],
+    "D012513": [
+        "Sarcoma, Experimental"
+    ],
+    "D012517": [
+        "Sarcoma, Yoshida"
+    ],
+    "D008546": [
+        "Melanoma, Experimental"
+    ],
+    "D008654": [
+        "Mesothelioma"
+    ],
+    "D008325": [
+        "Mammary Neoplasms, Experimental"
+    ],
+    "D001169": [
+        "Arthritis, Experimental"
+    ],
+    "D015212": [
+        "Inflammatory Bowel Diseases"
+    ],
+    "D008477": [
+        "Mediastinal Diseases"
+    ],
+    "D014605": [
+        "Uveitis"
+    ],
+    "D007247": [
+        "Infertility, Female"
+    ],
+    "D004696": [
+        "Endocarditis"
+    ],
+    "D010490": [
+        "Pericardial Effusion"
+    ],
+    "D009190": [
+        "Myelodysplastic Syndromes"
+    ],
+    "D000210": [
+        "Acute-Phase Reaction"
+    ],
+    "D012652": [
+        "Self Mutilation"
+    ],
+    "D008105": [
+        "Liver Cirrhosis, Biliary"
+    ],
+    "D015775": [
+        "Fractures, Stress"
+    ],
+    "D009349": [
+        "Nematode Infections"
+    ],
+    "D004942": [
+        "Esophagitis, Peptic"
+    ],
+    "D014077": [
+        "Tooth Erosion"
+    ],
+    "D007417": [
+        "Intestinal Polyps"
+    ],
+    "D014245": [
+        "Trichomonas Infections"
+    ],
+    "D012186": [
+        "Retroperitoneal Neoplasms"
+    ],
+    "D006968": [
+        "Hypersensitivity, Delayed"
+    ],
+    "D015009": [
+        "Yersinia Infections"
+    ],
+    "D014735": [
+        "Vibrio Infections"
+    ],
+    "D002771": [
+        "Cholera"
+    ],
+    "D003015": [
+        "Clostridium Infections"
+    ],
+    "D012327": [
+        "RNA Virus Infections"
+    ],
+    "D019350": [
+        "Astroviridae Infections"
+    ],
+    "D004457": [
+        "Echovirus Infections"
+    ],
+    "D012088": [
+        "Reoviridae Infections"
+    ],
+    "D006373": [
+        "Helminthiasis"
+    ],
+    "D011528": [
+        "Protozoan Infections"
+    ],
+    "D004749": [
+        "Entamoebiasis"
+    ],
+    "D003048": [
+        "Coccidiosis"
+    ],
+    "D004403": [
+        "Dysentery"
+    ],
+    "D004760": [
+        "Enterocolitis"
+    ],
+    "D004378": [
+        "Duodenal Diseases"
+    ],
+    "D007077": [
+        "Ileal Diseases"
+    ],
+    "D014985": [
+        "Xerophthalmia"
+    ],
+    "D007019": [
+        "Hypoproteinemia"
+    ],
+    "D003963": [
+        "Diaper Rash"
+    ],
+    "D012628": [
+        "Dermatitis, Seborrheic"
+    ],
+    "D016269": [
+        "Milk Hypersensitivity"
+    ],
+    "D006831": [
+        "Polyhydramnios"
+    ],
+    "D011006": [
+        "Pneumatosis Cystoides Intestinalis"
+    ],
+    "D011504": [
+        "Protein-Losing Enteropathies"
+    ],
+    "D011349": [
+        "Proctitis"
+    ],
+    "D018305": [
+        "Ganglioneuroblastoma"
+    ],
+    "D010253": [
+        "Respirovirus Infections"
+    ],
+    "D020345": [
+        "Enterocolitis, Necrotizing"
+    ],
+    "D011027": [
+        "Pneumoperitoneum"
+    ],
+    "D001753": [
+        "Blast Injuries"
+    ],
+    "D013955": [
+        "Thyroglossal Cyst"
+    ],
+    "D009290": [
+        "Narcolepsy"
+    ],
+    "D015651": [
+        "Mycotoxicosis"
+    ],
+    "D050500": [
+        "Pancreatitis, Chronic"
+    ],
+    "D009956": [
+        "Psittacosis"
+    ],
+    "D006660": [
+        "Histoplasmosis"
+    ],
+    "D007898": [
+        "Leishmaniasis, Visceral"
+    ],
+    "D006975": [
+        "Hypertension, Portal"
+    ],
+    "D010998": [
+        "Pleurisy"
+    ],
+    "D006042": [
+        "Goiter"
+    ],
+    "D023521": [
+        "Chlamydophila Infections"
+    ],
+    "D007922": [
+        "Leptospirosis"
+    ],
+    "D016870": [
+        "Neisseriaceae Infections"
+    ],
+    "D000193": [
+        "Actinomycetales Infections"
+    ],
+    "D009165": [
+        "Mycobacterium Infections, Atypical"
+    ],
+    "D015270": [
+        "Mycobacterium avium-intracellulare Infection"
+    ],
+    "D017714": [
+        "Community-Acquired Infections"
+    ],
+    "D003047": [
+        "Coccidioidomycosis"
+    ],
+    "D010850": [
+        "Picornaviridae Infections"
+    ],
+    "D013322": [
+        "Strongyloidiasis"
+    ],
+    "D010237": [
+        "Paragonimiasis"
+    ],
+    "D009198": [
+        "Myiasis"
+    ],
+    "D015479": [
+        "Leukemia, Myelomonocytic, Acute"
+    ],
+    "D007947": [
+        "Leukemia, Megakaryoblastic, Acute"
+    ],
+    "D018202": [
+        "Pulmonary Blastoma"
+    ],
+    "D008080": [
+        "Liposarcoma"
+    ],
+    "D005354": [
+        "Fibrosarcoma"
+    ],
+    "D013584": [
+        "Sarcoma, Synovial"
+    ],
+    "D018358": [
+        "Neuroendocrine Tumors"
+    ],
+    "D002282": [
+        "Adenocarcinoma, Bronchiolo-Alveolar"
+    ],
+    "D002288": [
+        "Adenocarcinoma, Mucinous"
+    ],
+    "D005918": [
+        "Glomus Tumor"
+    ],
+    "D018323": [
+        "Hemangioendothelioma, Epithelioid"
+    ],
+    "D013899": [
+        "Thoracic Neoplasms"
+    ],
+    "D003074": [
+        "Solitary Pulmonary Nodule"
+    ],
+    "D004932": [
+        "Esophageal and Gastric Varices"
+    ],
+    "D004940": [
+        "Esophageal Stenosis"
+    ],
+    "D010305": [
+        "Parotid Diseases"
+    ],
+    "D010309": [
+        "Parotitis"
+    ],
+    "D012798": [
+        "Sialorrhea"
+    ],
+    "D014076": [
+        "Tooth Diseases"
+    ],
+    "D001987": [
+        "Bronchiectasis"
+    ],
+    "D001989": [
+        "Bronchiolitis Obliterans"
+    ],
+    "D018549": [
+        "Cryptogenic Organizing Pneumonia"
+    ],
+    "D016726": [
+        "Plasma Cell Granuloma, Pulmonary"
+    ],
+    "D010995": [
+        "Pleural Diseases"
+    ],
+    "D006876": [
+        "Hydrothorax"
+    ],
+    "D004826": [
+        "Epiglottitis"
+    ],
+    "D013896": [
+        "Thoracic Diseases"
+    ],
+    "D003231": [
+        "Conjunctivitis"
+    ],
+    "D009916": [
+        "Orbital Diseases"
+    ],
+    "D004715": [
+        "Endometriosis"
+    ],
+    "D014623": [
+        "Vaginal Diseases"
+    ],
+    "D001025": [
+        "Aortitis"
+    ],
+    "D003877": [
+        "Dermatitis, Contact"
+    ],
+    "D006486": [
+        "Hemosiderosis"
+    ],
+    "D017074": [
+        "Common Variable Immunodeficiency"
+    ],
+    "D002137": [
+        "Calculi"
+    ],
+    "D011127": [
+        "Polyps"
+    ],
+    "D020347": [
+        "Lithiasis"
+    ],
+    "D013529": [
+        "Surgical Wound Dehiscence"
+    ],
+    "D014456": [
+        "Ulcer"
+    ],
+    "D005739": [
+        "Gas Poisoning"
+    ],
+    "D012253": [
+        "Rib Fractures"
+    ],
+    "D016720": [
+        "Pneumocystis Infections"
+    ],
+    "D006045": [
+        "Goiter, Substernal"
+    ],
+    "D001885": [
+        "Bordetella Infections"
+    ],
+    "D018277": [
+        "Carcinoma, Mucoepidermoid"
+    ],
+    "D009463": [
+        "Neuroma"
+    ],
+    "D011230": [
+        "Precancerous Conditions"
+    ],
+    "D015154": [
+        "Esophageal Motility Disorders"
+    ],
+    "D006555": [
+        "Hernia, Ventral"
+    ],
+    "D011026": [
+        "Pneumopericardium"
+    ],
+    "D019320": [
+        "Embolism, Paradoxical"
+    ],
+    "D045723": [
+        "Diverticulosis, Esophageal"
+    ],
+    "D046449": [
+        "Hernia, Abdominal"
+    ],
+    "D003528": [
+        "Carcinoma, Adenoid Cystic"
+    ],
+    "D054363": [
+        "Solitary Fibrous Tumor, Pleural"
+    ],
+    "D018286": [
+        "Carcinoma, Giant Cell"
+    ],
+    "D008878": [
+        "Middle Lobe Syndrome"
+    ],
+    "D029481": [
+        "Bronchitis, Chronic"
+    ],
+    "D002769": [
+        "Cholelithiasis"
+    ],
+    "D016868": [
+        "Serratia Infections"
+    ],
+    "D010930": [
+        "Plague"
+    ],
+    "D014895": [
+        "Weil Disease"
+    ],
+    "D008202": [
+        "Lymphangioma"
+    ],
+    "D009379": [
+        "Neoplasms, Muscle Tissue"
+    ],
+    "D019226": [
+        "Oral Ulcer"
+    ],
+    "D008480": [
+        "Mediastinitis"
+    ],
+    "D007105": [
+        "Immune Complex Diseases"
+    ],
+    "D002059": [
+        "Burns, Inhalation"
+    ],
+    "D009383": [
+        "Neoplasms, Vascular Tissue"
+    ],
+    "D001015": [
+        "Aortic Arch Syndromes"
+    ],
+    "D022125": [
+        "Lacerations"
+    ],
+    "D009214": [
+        "Myoma"
+    ],
+    "D018287": [
+        "Carcinoma, Large Cell"
+    ],
+    "D001791": [
+        "Blood Platelet Disorders"
+    ],
+    "D018262": [
+        "Adenocarcinoma, Clear Cell"
+    ],
+    "D018324": [
+        "Hemangioma, Capillary"
+    ],
+    "D016586": [
+        "Granular Cell Tumor"
+    ],
+    "D005902": [
+        "Glaucoma, Open-Angle"
+    ],
+    "D005831": [
+        "Genital Diseases, Female"
+    ],
+    "D003329": [
+        "Coronary Vasospasm"
+    ],
+    "D012773": [
+        "Shock, Surgical"
+    ],
+    "D018467": [
+        "Positive-Pressure Respiration, Intrinsic"
+    ],
+    "D054850": [
+        "Osteophyte"
+    ],
+    "D015473": [
+        "Leukemia, Promyelocytic, Acute"
+    ],
+    "D004381": [
+        "Duodenal Ulcer"
+    ],
+    "D010188": [
+        "Exocrine Pancreatic Insufficiency"
+    ],
+    "D001206": [
+        "Ascorbic Acid Deficiency"
+    ],
+    "D000151": [
+        "Acinetobacter Infections"
+    ],
+    "D016881": [
+        "Microsporidiosis"
+    ],
+    "D014257": [
+        "Trichuriasis"
+    ],
+    "D001196": [
+        "Ascariasis"
+    ],
+    "D005368": [
+        "Filariasis"
+    ],
+    "D012555": [
+        "Schistosomiasis mansoni"
+    ],
+    "D014355": [
+        "Chagas Disease"
+    ],
+    "D002286": [
+        "Carcinoma, Ehrlich Tumor"
+    ],
+    "D009376": [
+        "Neoplasms, Hormone-Dependent"
+    ],
+    "D001651": [
+        "Cholestasis, Extrahepatic"
+    ],
+    "D010518": [
+        "Periodontitis"
+    ],
+    "D013281": [
+        "Stomatitis, Aphthous"
+    ],
+    "D005322": [
+        "Fetal Membranes, Premature Rupture"
+    ],
+    "D019559": [
+        "Capillary Leak Syndrome"
+    ],
+    "D001941": [
+        "Breast Diseases"
+    ],
+    "D003872": [
+        "Dermatitis"
+    ],
+    "D019190": [
+        "Iron Overload"
+    ],
+    "D011293": [
+        "Premenstrual Syndrome"
+    ],
+    "D002105": [
+        "Cadmium Poisoning"
+    ],
+    "D005355": [
+        "Fibrosis"
+    ],
+    "D007942": [
+        "Leukemia, Experimental"
+    ],
+    "D001198": [
+        "Ascaridiasis"
+    ],
+    "D014253": [
+        "Trichostrongylosis"
+    ],
+    "D004451": [
+        "Echinostomiasis"
+    ],
+    "D008106": [
+        "Liver Cirrhosis, Experimental"
+    ],
+    "D014987": [
+        "Xerostomia"
+    ],
+    "D000037": [
+        "Abruptio Placentae"
+    ],
+    "D004420": [
+        "Dystocia"
+    ],
+    "D010927": [
+        "Placental Insufficiency"
+    ],
+    "D019052": [
+        "Depression, Postpartum"
+    ],
+    "D044882": [
+        "Glucose Metabolism Disorders"
+    ],
+    "D018149": [
+        "Glucose Intolerance"
+    ],
+    "D052439": [
+        "Lipid Metabolism Disorders"
+    ],
+    "D050171": [
+        "Dyslipidemias"
+    ],
+    "D002796": [
+        "Choline Deficiency"
+    ],
+    "D044343": [
+        "Overnutrition"
+    ],
+    "D056128": [
+        "Obesity, Abdominal"
+    ],
+    "D011628": [
+        "Puberty, Delayed"
+    ],
+    "D003557": [
+        "Phyllodes Tumor"
+    ],
+    "D003537": [
+        "Cystadenoma"
+    ],
+    "D003536": [
+        "Cystadenocarcinoma"
+    ],
+    "D010383": [
+        "Pellagra"
+    ],
+    "D018827": [
+        "Carcinoma, Lewis Lung"
+    ],
+    "D005067": [
+        "Euthyroid Sick Syndromes"
+    ],
+    "D007634": [
+        "Keratitis"
+    ],
+    "D010235": [
+        "Paraganglioma"
+    ],
+    "D007762": [
+        "Labyrinthitis"
+    ],
+    "D010034": [
+        "Otitis Media with Effusion"
+    ],
+    "D006607": [
+        "Adenoma, Sweat Gland"
+    ],
+    "D005096": [
+        "Exostoses"
+    ],
+    "D006956": [
+        "Hyperopia"
+    ],
+    "D001506": [
+        "Beckwith-Wiedemann Syndrome"
+    ],
+    "D010032": [
+        "Otitis Externa"
+    ],
+    "D005925": [
+        "Glomus Jugulare Tumor"
+    ],
+    "D002781": [
+        "Cholesteatoma"
+    ],
+    "D005358": [
+        "Fibrous Dysplasia, Monostotic"
+    ],
+    "D015826": [
+        "Langer-Giedion Syndrome"
+    ],
+    "D019280": [
+        "Branchio-Oto-Renal Syndrome"
+    ],
+    "D021081": [
+        "Chronobiology Disorders"
+    ],
+    "D003323": [
+        "Coronary Aneurysm"
+    ],
+    "D020187": [
+        "REM Sleep Behavior Disorder"
+    ],
+    "D020923": [
+        "REM Sleep Parasomnias"
+    ],
+    "D020920": [
+        "Dyssomnias"
+    ],
+    "D020188": [
+        "Sleep Paralysis"
+    ],
+    "D014201": [
+        "Trematode Infections"
+    ],
+    "D009889": [
+        "Opisthorchiasis"
+    ],
+    "D014406": [
+        "Tularemia"
+    ],
+    "D001660": [
+        "Biliary Tract Diseases"
+    ],
+    "D002764": [
+        "Cholecystitis"
+    ],
+    "D011472": [
+        "Prostatitis"
+    ],
+    "D001474": [
+        "Bartonella Infections"
+    ],
+    "D001899": [
+        "Borrelia Infections"
+    ],
+    "D011778": [
+        "Q Fever"
+    ],
+    "D012288": [
+        "Rickettsiaceae Infections"
+    ],
+    "D012282": [
+        "Rickettsia Infections"
+    ],
+    "D014437": [
+        "Typhus, Endemic Flea-Borne"
+    ],
+    "D012612": [
+        "Scrub Typhus"
+    ],
+    "D009164": [
+        "Mycobacterium Infections"
+    ],
+    "D005738": [
+        "Gas Gangrene"
+    ],
+    "D010000": [
+        "Osteitis"
+    ],
+    "D055499": [
+        "Catheter-Related Infections"
+    ],
+    "D005490": [
+        "Focal Infection"
+    ],
+    "D018461": [
+        "Soft Tissue Infections"
+    ],
+    "D018784": [
+        "Abdominal Abscess"
+    ],
+    "D016659": [
+        "Psoas Abscess"
+    ],
+    "D001102": [
+        "Arbovirus Infections"
+    ],
+    "D018778": [
+        "Hantavirus Infections"
+    ],
+    "D002761": [
+        "Cholangitis"
+    ],
+    "D005705": [
+        "Gallbladder Diseases"
+    ],
+    "D012810": [
+        "Sigmoid Diseases"
+    ],
+    "D013280": [
+        "Stomatitis"
+    ],
+    "D012488": [
+        "Salpingitis"
+    ],
+    "D056647": [
+        "Systemic Vasculitis"
+    ],
+    "D007955": [
+        "Leukemoid Reaction"
+    ],
+    "D020042": [
+        "Histiocytic Necrotizing Lymphadenitis"
+    ],
+    "D010201": [
+        "Panniculitis, Nodular Nonsuppurative"
+    ],
+    "D016463": [
+        "Sweet Syndrome"
+    ],
+    "D013966": [
+        "Thyroiditis"
+    ],
+    "D013968": [
+        "Thyroiditis, Subacute"
+    ],
+    "D019873": [
+        "Schnitzler Syndrome"
+    ],
+    "D035583": [
+        "Rare Diseases"
+    ],
+    "D012185": [
+        "Retroperitoneal Fibrosis"
+    ],
+    "D008287": [
+        "Malacoplakia"
+    ],
+    "D002916": [
+        "Chylothorax"
+    ],
+    "D054556": [
+        "Venous Thromboembolism"
+    ],
+    "D018291": [
+        "Cystadenoma, Mucinous"
+    ],
+    "D010439": [
+        "Peptic Ulcer Perforation"
+    ],
+    "D013277": [
+        "Stomach Volvulus"
+    ],
+    "D010532": [
+        "Peritoneal Diseases"
+    ],
+    "D005832": [
+        "Genital Diseases, Male"
+    ],
+    "D004604": [
+        "Elephantiasis"
+    ],
+    "D017520": [
+        "Mucinoses"
+    ],
+    "D005218": [
+        "Fat Necrosis"
+    ],
+    "D049291": [
+        "Seroma"
+    ],
+    "D009755": [
+        "Night Blindness"
+    ],
+    "D041761": [
+        "Cholecystolithiasis"
+    ],
+    "D057868": [
+        "Anastomotic Leak"
+    ],
+    "D042883": [
+        "Choledocholithiasis"
+    ],
+    "D006342": [
+        "Heart Rupture, Post-Infarction"
+    ],
+    "D023921": [
+        "Coronary Stenosis"
+    ],
+    "D018754": [
+        "Ventricular Dysfunction"
+    ],
+    "D006341": [
+        "Heart Rupture"
+    ],
+    "D002313": [
+        "Cardiomyopathy, Restrictive"
+    ],
+    "D018191": [
+        "Lymphangioma, Cystic"
+    ],
+    "D014591": [
+        "Uterine Diseases"
+    ],
+    "D000022": [
+        "Abortion, Spontaneous"
+    ],
+    "D009196": [
+        "Myeloproliferative Disorders"
+    ],
+    "D016104": [
+        "Oligohydramnios"
+    ],
+    "D008200": [
+        "Lymphangiectasis"
+    ],
+    "D003316": [
+        "Corneal Diseases"
+    ],
+    "D015423": [
+        "Scleritis"
+    ],
+    "D015862": [
+        "Choroid Diseases"
+    ],
+    "D015863": [
+        "Iridocyclitis"
+    ],
+    "D014606": [
+        "Uveitis, Anterior"
+    ],
+    "D003229": [
+        "Conjunctival Diseases"
+    ],
+    "D016510": [
+        "Corneal Neovascularization"
+    ],
+    "D009798": [
+        "Ocular Hypertension"
+    ],
+    "D015814": [
+        "Ocular Hypotension"
+    ],
+    "D007905": [
+        "Lens Diseases"
+    ],
+    "D018630": [
+        "Vitreoretinopathy, Proliferative"
+    ],
+    "D015355": [
+        "Glaucoma, Neovascular"
+    ],
+    "D002780": [
+        "Cholestasis, Intrahepatic"
+    ],
+    "D011269": [
+        "Pregnancy, Abdominal"
+    ],
+    "D011273": [
+        "Pregnancy, Prolonged"
+    ],
+    "D013543": [
+        "Sweat Gland Diseases"
+    ],
+    "D052776": [
+        "Female Urogenital Diseases"
+    ],
+    "D044584": [
+        "Carcinoma, Ductal"
+    ],
+    "D000026": [
+        "Abortion, Habitual"
+    ],
+    "D002590": [
+        "Cestode Infections"
+    ],
+    "D012192": [
+        "Retroviridae Infections"
+    ],
+    "D007816": [
+        "Larva Migrans, Visceral"
+    ],
+    "D010386": [
+        "Pelvic Neoplasms"
+    ],
+    "D015209": [
+        "Cholangitis, Sclerosing"
+    ],
+    "D012793": [
+        "Sialadenitis"
+    ],
+    "D015864": [
+        "Panuveitis"
+    ],
+    "D001796": [
+        "Blood Protein Disorders"
+    ],
+    "D015614": [
+        "Histiocytosis"
+    ],
+    "D008179": [
+        "Lupus Erythematosus, Discoid"
+    ],
+    "D012592": [
+        "Scleredema Adultorum"
+    ],
+    "D015434": [
+        "Panniculitis"
+    ],
+    "D011711": [
+        "Pyoderma"
+    ],
+    "D012700": [
+        "Serositis"
+    ],
+    "D012010": [
+        "Red-Cell Aplasia, Pure"
+    ],
+    "D006951": [
+        "Hyperlipoproteinemias"
+    ],
+    "D006043": [
+        "Goiter, Endemic"
+    ],
+    "D009794": [
+        "Ochronosis"
+    ],
+    "D008882": [
+        "Mikulicz' Disease"
+    ],
+    "D014603": [
+        "Uveal Diseases"
+    ],
+    "D017441": [
+        "Necrobiotic Disorders"
+    ],
+    "D016523": [
+        "Foot Ulcer"
+    ],
+    "D010025": [
+        "Osteoradionecrosis"
+    ],
+    "D006232": [
+        "Hand, Foot and Mouth Disease"
+    ],
+    "D000756": [
+        "Anemia, Sideroblastic"
+    ],
+    "D002285": [
+        "Carcinoma, Intraductal, Noninfiltrating"
+    ],
+    "D017096": [
+        "Prion Diseases"
+    ],
+    "D007729": [
+        "Kuru"
+    ],
+    "D012897": [
+        "Slow Virus Diseases"
+    ],
+    "D020329": [
+        "Essential Tremor"
+    ],
+    "D018382": [
+        "Thyroid Hormone Resistance Syndrome"
+    ],
+    "D002012": [
+        "Bruxism"
+    ],
+    "D014954": [
+        "Wrist Injuries"
+    ],
+    "D020918": [
+        "Complex Regional Pain Syndromes"
+    ],
+    "D007948": [
+        "Leukemia, Monocytic, Acute"
+    ],
+    "D003112": [
+        "Colonic Pseudo-Obstruction"
+    ],
+    "D004194": [
+        "Disease"
+    ],
+    "D000208": [
+        "Acute Disease"
+    ],
+    "D004478": [
+        "Ectoparasitic Infestations"
+    ],
+    "D010623": [
+        "Phencyclidine Abuse"
+    ],
+    "D013978": [
+        "Tibial Fractures"
+    ],
+    "D014946": [
+        "Wound Infection"
+    ],
+    "D013474": [
+        "Sunstroke"
+    ],
+    "D003444": [
+        "Crush Syndrome"
+    ],
+    "D009145": [
+        "Mushroom Poisoning"
+    ],
+    "D016388": [
+        "Tooth Loss"
+    ],
+    "D014820": [
+        "Vitiligo"
+    ],
+    "D009845": [
+        "Oligospermia"
+    ],
+    "D000506": [
+        "Alopecia Areata"
+    ],
+    "D004407": [
+        "Dysgerminoma"
+    ],
+    "D002280": [
+        "Carcinoma, Basal Cell"
+    ],
+    "D008047": [
+        "Lip Diseases"
+    ],
+    "D007640": [
+        "Keratoconus"
+    ],
+    "D000152": [
+        "Acne Vulgaris"
+    ],
+    "D007039": [
+        "Hypotrichosis"
+    ],
+    "D012536": [
+        "Scalp Dermatoses"
+    ],
+    "D018370": [
+        "Leukocyte-Adhesion Deficiency Syndrome"
+    ],
+    "D009006": [
+        "Monosomy"
+    ],
+    "D033461": [
+        "Hyperuricemia"
+    ],
+    "D003773": [
+        "Dental Plaque"
+    ],
+    "D004426": [
+        "Ear Deformities, Acquired"
+    ],
+    "D010123": [
+        "Oxyuriasis"
+    ],
+    "D018197": [
+        "Hepatoblastoma"
+    ],
+    "D002806": [
+        "Chondrodysplasia Punctata"
+    ],
+    "D006957": [
+        "Hyperostosis Frontalis Interna"
+    ],
+    "D007873": [
+        "Legg-Perthes Disease"
+    ],
+    "D014075": [
+        "Tooth Discoloration"
+    ],
+    "D014072": [
+        "Tooth Abrasion"
+    ],
+    "D012030": [
+        "Refractive Errors"
+    ],
+    "D001251": [
+        "Astigmatism"
+    ],
+    "D006177": [
+        "Gynecomastia"
+    ],
+    "D007911": [
+        "Lentigo"
+    ],
+    "D054559": [
+        "Hyperphosphatemia"
+    ],
+    "D005058": [
+        "Eunuchism"
+    ],
+    "D019457": [
+        "Chromosome Breakage"
+    ],
+    "D024182": [
+        "Uniparental Disomy"
+    ],
+    "D012167": [
+        "Retinal Perforations"
+    ],
+    "D005244": [
+        "Fecal Impaction"
+    ],
+    "D006409": [
+        "Hematometra"
+    ],
+    "D007446": [
+        "Chromosome Inversion"
+    ],
+    "D001020": [
+        "Aortic Stenosis, Subvalvular"
+    ],
+    "D006226": [
+        "Hand Deformities"
+    ],
+    "D011625": [
+        "Pterygium"
+    ],
+    "D011535": [
+        "Prune Belly Syndrome"
+    ],
+    "D004413": [
+        "Dysostoses"
+    ],
+    "D014849": [
+        "Waardenburg's Syndrome"
+    ],
+    "D007906": [
+        "Lens Subluxation"
+    ],
+    "D007499": [
+        "Iris Diseases"
+    ],
+    "D020922": [
+        "Sleep-Wake Transition Disorders"
+    ],
+    "D025064": [
+        "Sex Chromosome Disorders"
+    ],
+    "D005886": [
+        "Gingival Hypertrophy"
+    ],
+    "D005889": [
+        "Gingival Recession"
+    ],
+    "D043171": [
+        "Chromosomal Instability"
+    ],
+    "D002873": [
+        "Chromosome Fragility"
+    ],
+    "D018404": [
+        "Isochromosomes"
+    ],
+    "D000238": [
+        "Adenoma, Chromophobe"
+    ],
+    "D014438": [
+        "Typhus, Epidemic Louse-Borne"
+    ],
+    "D011317": [
+        "Priapism"
+    ],
+    "D017593": [
+        "Kleine-Levin Syndrome"
+    ],
+    "D011305": [
+        "Presbyopia"
+    ],
+    "D020937": [
+        "Epilepsy, Partial, Sensory"
+    ],
+    "D012544": [
+        "Scheuermann Disease"
+    ],
+    "D007842": [
+        "Lathyrism"
+    ],
+    "D004774": [
+        "Entropion"
+    ],
+    "D006616": [
+        "Hip Contracture"
+    ],
+    "D005401": [
+        "Fissure in Ano"
+    ],
+    "D003354": [
+        "Corynebacterium Infections"
+    ],
+    "D023981": [
+        "Sarcoma, Myeloid"
+    ],
+    "D010017": [
+        "Osteoma, Osteoid"
+    ],
+    "D025242": [
+        "Spondylarthropathies"
+    ],
+    "D000291": [
+        "Adnexal Diseases"
+    ],
+    "D000267": [
+        "Tissue Adhesions"
+    ],
+    "D000673": [
+        "Amputation, Traumatic"
+    ],
+    "D025241": [
+        "Spondylarthritis"
+    ],
+    "D019567": [
+        "Back Injuries"
+    ],
+    "D018212": [
+        "Giant Cell Tumor of Bone"
+    ],
+    "D055959": [
+        "Intervertebral Disk Degeneration"
+    ],
+    "D050815": [
+        "Fractures, Compression"
+    ],
+    "D011542": [
+        "Pseudarthrosis"
+    ],
+    "D017695": [
+        "Soft Tissue Injuries"
+    ],
+    "D014102": [
+        "Torsion Abnormality"
+    ],
+    "D002804": [
+        "Chondroblastoma"
+    ],
+    "D058566": [
+        "Sacroiliitis"
+    ],
+    "D046649": [
+        "Hematoma, Subdural, Spinal"
+    ],
+    "D018215": [
+        "Osteoblastoma"
+    ],
+    "D055111": [
+        "Failed Back Surgery Syndrome"
+    ],
+    "D015352": [
+        "Dry Eye Syndromes"
+    ],
+    "D012061": [
+        "Relapsing Fever"
+    ],
+    "D011906": [
+        "Rat-Bite Fever"
+    ],
+    "D021821": [
+        "Communicable Diseases, Emerging"
+    ],
+    "D014036": [
+        "Togaviridae Infections"
+    ],
+    "D006725": [
+        "Hookworm Infections"
+    ],
+    "D018335": [
+        "Rhabdoid Tumor"
+    ],
+    "D018316": [
+        "Gliosarcoma"
+    ],
+    "D012466": [
+        "Salivary Gland Diseases"
+    ],
+    "D014845": [
+        "Vulvar Diseases"
+    ],
+    "D054019": [
+        "Immune Reconstitution Inflammatory Syndrome"
+    ],
+    "D007049": [
+        "Iatrogenic Disease"
+    ],
+    "D051677": [
+        "Histiocytoma, Malignant Fibrous"
+    ],
+    "D014095": [
+        "Tooth, Impacted"
+    ],
+    "D008010": [
+        "Lichen Planus"
+    ],
+    "D018293": [
+        "Cystadenoma, Serous"
+    ],
+    "D003769": [
+        "Dental Occlusion, Traumatic"
+    ],
+    "D008312": [
+        "Malocclusion, Angle Class II"
+    ],
+    "D006986": [
+        "Hypervitaminosis A"
+    ],
+    "D018278": [
+        "Carcinoma, Neuroendocrine"
+    ],
+    "D015812": [
+        "Glaucoma, Angle-Closure"
+    ],
+    "D009808": [
+        "Odontogenic Tumors"
+    ],
+    "D001248": [
+        "Asthenopia"
+    ],
+    "D018214": [
+        "Fibroma, Ossifying"
+    ],
+    "D018218": [
+        "Neoplasms, Fibrous Tissue"
+    ],
+    "D004687": [
+        "Enchondromatosis"
+    ],
+    "D015838": [
+        "Chondromatosis, Synovial"
+    ],
+    "D006833": [
+        "Hydrarthrosis"
+    ],
+    "D050798": [
+        "SUNCT Syndrome"
+    ],
+    "D016727": [
+        "Orbital Pseudotumor"
+    ],
+    "D000239": [
+        "Adenoma, Acidophil"
+    ],
+    "D051302": [
+        "Paroxysmal Hemicrania"
+    ],
+    "D051271": [
+        "Headache Disorders, Secondary"
+    ],
+    "D005352": [
+        "Fibromuscular Dysplasia"
+    ],
+    "D020432": [
+        "Trochlear Nerve Diseases"
+    ],
+    "D000839": [
+        "Aniseikonia"
+    ],
+    "D051303": [
+        "Trigeminal Autonomic Cephalalgias"
+    ],
+    "D051298": [
+        "Post-Traumatic Headache"
+    ],
+    "D008205": [
+        "Lymphangitis"
+    ],
+    "D020435": [
+        "Glossopharyngeal Nerve Diseases"
+    ],
+    "D010489": [
+        "Periarthritis"
+    ],
+    "D017543": [
+        "Iliac Aneurysm"
+    ],
+    "D020429": [
+        "Tibial Neuropathy"
+    ],
+    "D002422": [
+        "Causalgia"
+    ],
+    "D054515": [
+        "Vulvar Vestibulitis"
+    ],
+    "D015439": [
+        "Leprosy, Borderline"
+    ],
+    "D000881": [
+        "Anthrax"
+    ],
+    "D013984": [
+        "Tick Infestations"
+    ],
+    "D008949": [
+        "Adenoma, Pleomorphic"
+    ],
+    "D000231": [
+        "Adenocarcinoma, Papillary"
+    ],
+    "D012173": [
+        "Retinitis"
+    ],
+    "D015882": [
+        "Retinal Necrosis Syndrome, Acute"
+    ],
+    "D014608": [
+        "Uveoparotid Fever"
+    ],
+    "D054391": [
+        "Lymphoma, Extranodal NK-T-Cell"
+    ],
+    "D015441": [
+        "Leprosy, Tuberculoid"
+    ],
+    "D013145": [
+        "Spirochaetales Infections"
+    ],
+    "D004483": [
+        "Ectropion"
+    ],
+    "D018233": [
+        "Rhabdomyosarcoma, Embryonal"
+    ],
+    "D002613": [
+        "Cheilitis"
+    ],
+    "D014063": [
+        "Tongue, Fissured"
+    ],
+    "D007767": [
+        "Lacrimal Duct Obstruction"
+    ],
+    "D001935": [
+        "Branchioma"
+    ],
+    "D000235": [
+        "Adenolymphoma"
+    ],
+    "D018281": [
+        "Cholangiocarcinoma"
+    ],
+    "D006044": [
+        "Goiter, Nodular"
+    ],
+    "D018263": [
+        "Adenocarcinoma, Follicular"
+    ],
+    "D058225": [
+        "Plaque, Amyloid"
+    ],
+    "D001657": [
+        "Biliary Dyskinesia"
+    ],
+    "D034161": [
+        "Pelvic Infection"
+    ],
+    "D002278": [
+        "Carcinoma in Situ"
+    ],
+    "D011350": [
+        "Proctocolitis"
+    ],
+    "D004382": [
+        "Duodenitis"
+    ],
+    "D010409": [
+        "Penile Diseases"
+    ],
+    "D011469": [
+        "Prostatic Diseases"
+    ],
+    "D014627": [
+        "Vaginitis"
+    ],
+    "D009450": [
+        "Neurodermatitis"
+    ],
+    "D012393": [
+        "Rosacea"
+    ],
+    "D018923": [
+        "Persian Gulf Syndrome"
+    ],
+    "D009066": [
+        "Mouth, Edentulous"
+    ],
+    "D005929": [
+        "Glossitis, Benign Migratory"
+    ],
+    "D018783": [
+        "Impotence, Vasculogenic"
+    ],
+    "D014848": [
+        "Vulvovaginitis"
+    ],
+    "D005348": [
+        "Fibrocystic Breast Disease"
+    ],
+    "D014847": [
+        "Vulvitis"
+    ],
+    "D002054": [
+        "Burning Mouth Syndrome"
+    ],
+    "D011146": [
+        "Eczema, Dyshidrotic"
+    ],
+    "D018159": [
+        "Endolymphatic Hydrops"
+    ],
+    "D054972": [
+        "Postural Orthostatic Tachycardia Syndrome"
+    ],
+    "D043604": [
+        "Glomus Tympanicum Tumor"
+    ],
+    "D054969": [
+        "Primary Dysautonomias"
+    ],
+    "D054970": [
+        "Pure Autonomic Failure"
+    ],
+    "D003137": [
+        "Common Bile Duct Diseases"
+    ],
+    "D003251": [
+        "Constriction, Pathologic"
+    ],
+    "D004108": [
+        "Dilatation, Pathologic"
+    ],
+    "D011671": [
+        "Pulpitis"
+    ],
+    "D003807": [
+        "Dentin Sensitivity"
+    ],
+    "D010485": [
+        "Periapical Periodontitis"
+    ],
+    "D007637": [
+        "Keratoconjunctivitis"
+    ],
+    "D005543": [
+        "Forearm Injuries"
+    ],
+    "D000794": [
+        "Angiokeratoma"
+    ],
+    "D011885": [
+        "Radius Fractures"
+    ],
+    "D036841": [
+        "Ciguatera Poisoning"
+    ],
+    "D014458": [
+        "Ulna Fractures"
+    ],
+    "D005599": [
+        "Fractures, Ununited"
+    ],
+    "D010483": [
+        "Periapical Diseases"
+    ],
+    "D003788": [
+        "Dental Pulp Diseases"
+    ],
+    "D013641": [
+        "Tarsal Tunnel Syndrome"
+    ],
+    "D019553": [
+        "Tooth, Nonvital"
+    ],
+    "D008269": [
+        "Macular Edema"
+    ],
+    "D015593": [
+        "Retinal Drusen"
+    ],
+    "D057130": [
+        "Leber Congenital Amaurosis"
+    ],
+    "D013717": [
+        "Tenosynovitis"
+    ],
+    "D016602": [
+        "Needlestick Injuries"
+    ],
+    "D001035": [
+        "Aphakia"
+    ],
+    "D001036": [
+        "Aphakia, Postcataract"
+    ],
+    "D015841": [
+        "Enophthalmos"
+    ],
+    "D015858": [
+        "Anisometropia"
+    ],
+    "D002833": [
+        "Choroiditis"
+    ],
+    "D004823": [
+        "Epididymitis"
+    ],
+    "D050724": [
+        "Fractures, Cartilage"
+    ],
+    "D017789": [
+        "Granuloma, Pyogenic"
+    ],
+    "D018289": [
+        "Carcinoma, Verrucous"
+    ],
+    "D010514": [
+        "Periodontal Pocket"
+    ],
+    "D010520": [
+        "Aggressive Periodontitis"
+    ],
+    "D000564": [
+        "Ameloblastoma"
+    ],
+    "D004368": [
+        "Dry Socket"
+    ],
+    "D005888": [
+        "Gingival Pocket"
+    ],
+    "D007079": [
+        "Ileitis"
+    ],
+    "D002429": [
+        "Cecal Diseases"
+    ],
+    "D015012": [
+        "Yersinia pseudotuberculosis Infections"
+    ],
+    "D010326": [
+        "Pasteurella Infections"
+    ],
+    "D006482": [
+        "Hemorrhagic Fevers, Viral"
+    ],
+    "D014496": [
+        "Urachal Cyst"
+    ],
+    "D018207": [
+        "Angiomyolipoma"
+    ],
+    "D011553": [
+        "Pseudomyxoma Peritonei"
+    ],
+    "D001649": [
+        "Bile Duct Diseases"
+    ],
+    "D042101": [
+        "Acalculous Cholecystitis"
+    ],
+    "D041881": [
+        "Cholecystitis, Acute"
+    ],
+    "D045823": [
+        "Ileus"
+    ],
+    "D020518": [
+        "Focal Nodular Hyperplasia"
+    ],
+    "D002915": [
+        "Chylous Ascites"
+    ],
+    "D011001": [
+        "Pleuropneumonia"
+    ],
+    "D005184": [
+        "Fallopian Tube Diseases"
+    ],
+    "D055112": [
+        "Pyometra"
+    ],
+    "D010921": [
+        "Placenta Accreta"
+    ],
+    "D011271": [
+        "Pregnancy, Ectopic"
+    ],
+    "D017444": [
+        "Skin Diseases, Papulosquamous"
+    ],
+    "D006550": [
+        "Hernia, Femoral"
+    ],
+    "D011274": [
+        "Pregnancy, Tubal"
+    ],
+    "D018222": [
+        "Fibromatosis, Aggressive"
+    ],
+    "D006431": [
+        "Hemobilia"
+    ],
+    "D018282": [
+        "Cystadenocarcinoma, Mucinous"
+    ],
+    "D012421": [
+        "Rupture"
+    ],
+    "D018240": [
+        "Endodermal Sinus Tumor"
+    ],
+    "D006399": [
+        "Hematocolpos"
+    ],
+    "D050805": [
+        "Wandering Spleen"
+    ],
+    "D018292": [
+        "Cystadenoma, Papillary"
+    ],
+    "D006553": [
+        "Hernia, Obturator"
+    ],
+    "D058226": [
+        "Plaque, Atherosclerotic"
+    ],
+    "D054059": [
+        "Coronary Occlusion"
+    ],
+    "D023903": [
+        "Coronary Restenosis"
+    ],
+    "D058426": [
+        "Neointima"
+    ],
+    "D003784": [
+        "Dental Pulp Calcification"
+    ],
+    "D003789": [
+        "Dental Pulp Exposure"
+    ],
+    "D012391": [
+        "Root Resorption"
+    ],
+    "D010497": [
+        "Pericoronitis"
+    ],
+    "D014086": [
+        "Tooth Mobility"
+    ],
+    "D014097": [
+        "Tooth, Unerupted"
+    ],
+    "D003763": [
+        "Dental Leakage"
+    ],
+    "D018284": [
+        "Cystadenocarcinoma, Serous"
+    ],
+    "D003111": [
+        "Colonic Polyps"
+    ],
+    "D016711": [
+        "Yang Deficiency"
+    ],
+    "D018279": [
+        "Carcinoma, Signet Ring Cell"
+    ],
+    "D013330": [
+        "Struma Ovarii"
+    ],
+    "D056887": [
+        "Pelvic Organ Prolapse"
+    ],
+    "D018459": [
+        "Lichen Sclerosus et Atrophicus"
+    ],
+    "D055496": [
+        "Neurogenic Bowel"
+    ],
+    "D001655": [
+        "Bile Reflux"
+    ],
+    "D005757": [
+        "Gastritis, Atrophic"
+    ],
+    "D004383": [
+        "Duodenogastric Reflux"
+    ],
+    "D043963": [
+        "Diverticulosis, Colonic"
+    ],
+    "D019217": [
+        "Tooth Attrition"
+    ],
+    "D012797": [
+        "Sialometaplasia, Necrotizing"
+    ],
+    "D016888": [
+        "Angiodysplasia"
+    ],
+    "D008311": [
+        "Malocclusion, Angle Class I"
+    ],
+    "D008313": [
+        "Malocclusion, Angle Class III"
+    ],
+    "D024343": [
+        "Open Bite"
+    ],
+    "D014085": [
+        "Tooth Migration"
+    ],
+    "D011151": [
+        "Popliteal Cyst"
+    ],
+    "D002759": [
+        "Adenoma, Bile Duct"
+    ],
+    "D018253": [
+        "Adenoma, Villous"
+    ],
+    "D048550": [
+        "Hepatic Insufficiency"
+    ],
+    "D018285": [
+        "Klatskin's Tumor"
+    ],
+    "D007402": [
+        "Intertrigo"
+    ],
+    "D000387": [
+        "Ainhum"
+    ],
+    "D020147": [
+        "Coagulation Protein Disorders"
+    ],
+    "D006461": [
+        "Hemolysis"
+    ],
+    "D000750": [
+        "Anemia, Myelophthisic"
+    ],
+    "D057049": [
+        "Thrombotic Microangiopathies"
+    ],
+    "D049950": [
+        "Hyperparathyroidism, Primary"
+    ],
+    "D010002": [
+        "Osteitis Fibrosa Cystica"
+    ],
+    "D017566": [
+        "Microvascular Angina"
+    ],
+    "D054143": [
+        "Heart Failure, Systolic"
+    ],
+    "D001742": [
+        "Blackwater Fever"
+    ],
+    "D017599": [
+        "Neuroectodermal Tumors"
+    ],
+    "D008557": [
+        "Melorheostosis"
+    ],
+    "D014593": [
+        "Uterine Inertia"
+    ],
+    "D002577": [
+        "Uterine Cervical Diseases"
+    ],
+    "D004692": [
+        "Endarteritis"
+    ],
+    "D007925": [
+        "Leriche Syndrome"
+    ],
+    "D010015": [
+        "Osteolysis, Essential"
+    ],
+    "D009625": [
+        "Noma"
+    ],
+    "D009914": [
+        "Oral Submucous Fibrosis"
+    ],
+    "D009380": [
+        "Neoplasms, Nerve Tissue"
+    ],
+    "D019773": [
+        "Epiretinal Membrane"
+    ],
+    "D047728": [
+        "Myopia, Degenerative"
+    ],
+    "D056833": [
+        "Central Serous Chorioretinopathy"
+    ],
+    "D057135": [
+        "Wet Macular Degeneration"
+    ],
+    "D058499": [
+        "Retinal Dystrophies"
+    ],
+    "D057092": [
+        "Geographic Atrophy"
+    ],
+    "D000033": [
+        "Abortion, Threatened"
+    ],
+    "D006981": [
+        "Hyperthyroxinemia"
+    ],
+    "D000303": [
+        "Adrenal Cortex Diseases"
+    ],
+    "D005499": [
+        "Folliculitis"
+    ],
+    "D004714": [
+        "Endometrial Hyperplasia"
+    ],
+    "D009839": [
+        "Oligomenorrhea"
+    ],
+    "D018309": [
+        "Neoplasms, Gonadal Tissue"
+    ],
+    "D000314": [
+        "Adrenal Rest Tumor"
+    ],
+    "D007725": [
+        "Krukenberg Tumor"
+    ],
+    "D005928": [
+        "Glossitis"
+    ],
+    "D013282": [
+        "Stomatitis, Denture"
+    ],
+    "D016866": [
+        "Bacteroidaceae Infections"
+    ],
+    "D057108": [
+        "Corneal Wavefront Aberration"
+    ],
+    "D015715": [
+        "Corneal Edema"
+    ],
+    "D017889": [
+        "Exfoliation Syndrome"
+    ],
+    "D058442": [
+        "Capsule Opacification"
+    ],
+    "D001946": [
+        "Breech Presentation"
+    ],
+    "D004716": [
+        "Endometritis"
+    ],
+    "D019522": [
+        "Vaginal Discharge"
+    ],
+    "D018194": [
+        "Adenomyoma"
+    ],
+    "D020774": [
+        "Pick Disease of the Brain"
+    ],
+    "D024801": [
+        "Tauopathies"
+    ],
+    "D020955": [
+        "Striatonigral Degeneration"
+    ],
+    "D005530": [
+        "Foot Deformities"
+    ],
+    "D006215": [
+        "Hallux Valgus"
+    ],
+    "D002145": [
+        "Callosities"
+    ],
+    "D019973": [
+        "Alcohol-Related Disorders"
+    ],
+    "D034062": [
+        "Insomnia, Fatal Familial"
+    ]
+}

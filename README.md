@@ -1,6 +1,3 @@
-BIENTÔT DISPONIBLE.
-
-
 L'expérimentation se déroule sur un jeu de données maladies/symptômes provenant de la publication "*Human symptoms-disease network, Zhou et al. 2014*". Ce jeu contient initialement 4217 maladies. Dans le cadre de nos expérimentations, nous avons restreint ce jeu de données à 1517 maladies que nous considérons comme étant le corpus. Pour obtenir ce corpus, plusieurs filtres sont employés.
 Le premier supprime les symptômes qui ont des descendants plus spécifiques dans la taxonomie. Par exemple, si une première maladie est associée au symptôme *Pain* et une seconde au symptôme *Abdominal Pain* alors, *Pain* est retiré de la liste des symptômes.
 Le second vérifie le nombre de co-occurrences entre les symptômes et la maladie, ce nombre doit être strictement supérieur à 1.
