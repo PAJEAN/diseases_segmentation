@@ -32,6 +32,7 @@ def statistics():
 					depth = len(spl)
 			depths.append(depth)
 
+	print(f"Number of diseases: {len(diseases)}")
 	print(f"Mean of symptoms: {sum(mean)/len(mean)}")
 
 	fig1, ax1 = plt.subplots()
