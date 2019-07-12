@@ -43,3 +43,7 @@ L'expérimentation menée au sein de cette étude repose sur la comparaison des 
 * Étape 5: Évaluer les clusters au travers des mesures: pureté, f1-mesure et rand index. Pour cela utiliser le script evaluation.py avec l'option -a pour calculer les différentes évaluations sur l'ensemble des fichiers au sein du dossier *./clusters*. Vous devez unzip dans un premier temps l'archive *sml_results.zip*.
 
 `python3.6 evaluation.py -a`
+
+# Les données ODBASE
+
+L'archive ./mesh/ODBASE_data.zip contient le corpus dans lequel les symptômes redondants les plus abstraits du point de vue de la maladie sont supprimés. Toutefois, le sml_results.tsv n'est pas fourni à cause de taille mais il peut être recalculé avec la SML et les données fournies.
